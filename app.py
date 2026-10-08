@@ -21,6 +21,29 @@ st.write(
     "and get mobile recommendations."
 )
 
+# Sidebar - Price Category Guide
+with st.sidebar:
+    st.title("📱 Mobile Prediction ")
+
+    st.markdown("---")
+    st.header("💰 Price Category Guide")
+    st.markdown("""
+    🟢 **Budget**  
+    ₹0 – ₹10,000
+
+    🔵 **Mid-Range**  
+    ₹10,001 – ₹25,000
+
+    🟣 **Premium**  
+    ₹25,001 – ₹50,000
+
+    🟠 **Flagship**  
+    ₹50,001+
+    """)
+
+    st.markdown("---")
+    st.caption("Illustrative price ranges only.")
+
 st.success("Model and dataset loaded successfully!")
 
 st.subheader("📱 Enter Mobile Specifications")
