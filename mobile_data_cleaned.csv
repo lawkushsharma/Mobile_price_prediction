@@ -1,0 +1,1201 @@
+Brand,Model_name,Ram,Storage,Processor,Battery_power,Camera,Display,Screen_size,Resolution,Operating_system,Dual_sim,Colour,Android_version,Price_range
+OnePlus,OnePlus 12R,8,128,Snapdragon 7 Gen3,5250,50,LTPO AMOLED,6.6,1080 x 2400 (FHD+),Android,No,Ocean Blue,14.0,Premium
+Realme,Realme Narzo N55,4,128,MediaTek Helio G85,5400,50,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Glacier White,12.0,Budget
+Infinix,Infinix Hot 30i,4,32,Snapdragon 4 Gen1,4700,48,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Lavender Purple,12.0,Budget
+Apple,iPhone 15 Pro,16,512,Apple A17 Pro,4050,48,Super Retina XDR OLED,6.3,1080 x 2412 (FHD+),iOS,No,Cosmic Black,14.0,Flagship
+Tecno,Tecno Spark 10,4,32,Snapdragon 4 Gen1,5050,48,PLS LCD,6.5,720 x 1612 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+iQOO,iQOO Neo 9,8,256,Snapdragon 7 Gen3,4650,200,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Google,Google Pixel 7a,8,128,Google Tensor G2,5300,108,Super AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Graphite,15.0,Premium
+Vivo,Vivo Y200,8,128,MediaTek Helio G99,4950,50,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Tecno,Tecno Camon 20,8,128,Snapdragon 6 Gen1,4900,50,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+Tecno,Tecno Pova 5,6,256,Snapdragon 6 Gen1,5500,108,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Coral Red,13.0,Mid-Range
+Google,Google Pixel 8 Pro,12,512,Google Tensor G3,3750,108,Super Retina XDR OLED,6.6,1080 x 2412 (FHD+),Android,Yes,Starlight,15.0,Flagship
+Motorola,Moto Edge 40 Neo,6,256,MediaTek Helio G99,5300,50,IPS LCD,6.8,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,13.0,Mid-Range
+Vivo,Vivo Y17s,4,128,MediaTek Helio G35,5600,13,IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Lavender Purple,13.0,Budget
+Poco,Poco X6 Pro,6,256,MediaTek Helio G99,5200,108,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+Tecno,Tecno Spark 10,4,32,MediaTek Helio G35,5950,50,IPS LCD,6.5,720 x 1600 (HD+),Android,No,Sunset Orange,12.0,Budget
+Realme,Realme 12 Pro,6,256,MediaTek Dimensity 7050,5400,108,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,13.0,Mid-Range
+Redmi,Redmi A2+,6,128,MediaTek Helio G35,5900,50,PLS LCD,6.5,720 x 1600 (HD+),Android,Yes,Starlight,12.0,Budget
+Infinix,Infinix Hot 30i,4,128,MediaTek Helio G85,5050,48,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Lavender Purple,12.0,Budget
+Motorola,Moto E13,4,64,MediaTek Helio G85,5350,48,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Aurora Green,12.0,Budget
+Redmi,Redmi A2+,4,128,MediaTek Dimensity 6100+,5850,50,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Midnight Black,13.0,Budget
+OnePlus,OnePlus 12R,8,128,Google Tensor G2,5000,64,AMOLED,6.7,1080 x 2400 (FHD+),Android,No,Ocean Blue,15.0,Premium
+Apple,iPhone 15 Pro,12,512,Apple A17 Pro,3400,48,Super Retina XDR OLED,6.2,1080 x 2412 (FHD+),iOS,Yes,Sunset Orange,14.0,Flagship
+Samsung,Samsung Galaxy Z Fold5,16,256,Exynos 2200,4900,50,Super Retina XDR OLED,6.3,1080 x 2412 (FHD+),Android,Yes,Starlight,14.0,Flagship
+Realme,Realme Narzo N55,4,32,MediaTek Dimensity 6100+,4950,50,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Forest Green,12.0,Budget
+Poco,Poco X6 Pro,8,256,Snapdragon 4 Gen2,4800,108,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+Oppo,Oppo A17,4,64,MediaTek Dimensity 6100+,4950,50,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Lavender Purple,12.0,Budget
+Oppo,Oppo A17,4,128,Unisoc T612,4600,13,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Samsung,Samsung Galaxy M14,6,128,MediaTek Dimensity 7050,5350,50,AMOLED,6.6,1080 x 2400 (FHD+),Android,No,Sunset Orange,13.0,Mid-Range
+Samsung,Samsung Galaxy S24+,12,256,Exynos 2400,3950,50,Dynamic AMOLED 2X,6.8,1440 x 3120 (QHD+),Android,No,Ice Blue,15.0,Flagship
+Oppo,Oppo F25 Pro,8,256,Snapdragon 7 Gen3,5300,50,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Pearl White,14.0,Premium
+Motorola,Moto G84,6,128,MediaTek Dimensity 7050,5200,64,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,14.0,Mid-Range
+Tecno,Tecno Pova 5,6,128,MediaTek Helio G99,5000,108,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+Tecno,Tecno Camon 20,8,256,MediaTek Dimensity 7050,5050,50,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Mid-Range
+Nothing,Nothing Phone 2,12,256,Snapdragon 7 Gen2,5200,108,LTPO AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Forest Green,14.0,Premium
+Vivo,Vivo Y200,8,256,MediaTek Helio G99,5350,50,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+Oppo,Oppo F25 Pro,8,256,MediaTek Dimensity 8200,4700,200,LTPO AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,15.0,Premium
+Nokia,Nokia G42,6,128,Snapdragon 4 Gen2,5500,108,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Mid-Range
+Motorola,Moto G84,6,128,MediaTek Dimensity 7050,5300,108,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Mid-Range
+Samsung,Samsung Galaxy S23 FE,8,256,Snapdragon 8 Gen2,5250,50,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Infinix,Infinix Smart 8,6,64,Snapdragon 4 Gen1,5850,50,PLS LCD,6.7,720 x 1612 (HD+),Android,Yes,Graphite,13.0,Budget
+Apple,iPhone 15 Pro,16,256,Apple A17 Pro,4250,48,Super Retina XDR OLED,6.3,1179 x 2556 (Super Retina XDR),iOS,No,Cosmic Black,14.0,Flagship
+Samsung,Samsung Galaxy A05,4,64,Snapdragon 4 Gen1,4650,50,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Lavender Purple,12.0,Budget
+Infinix,Infinix Hot 40i,4,64,MediaTek Helio G35,5350,48,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Glacier White,12.0,Budget
+OnePlus,OnePlus 12,16,256,Snapdragon 8 Gen2,4750,108,LTPO AMOLED,6.5,1179 x 2556 (Super Retina XDR),Android,Yes,Starlight,15.0,Flagship
+Realme,Realme 12 Pro,6,128,MediaTek Helio G99,5500,108,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Graphite,14.0,Mid-Range
+Redmi,Redmi 13C,4,32,Snapdragon 4 Gen1,4800,48,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Coral Red,12.0,Budget
+iQOO,iQOO Z9,8,128,Snapdragon 6 Gen1,5300,50,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,13.0,Mid-Range
+iQOO,iQOO Neo 9,8,128,Snapdragon 7 Gen2,5150,64,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,14.0,Premium
+Nothing,Nothing Phone 2,8,128,MediaTek Dimensity 8200,4600,50,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,15.0,Premium
+iQOO,iQOO Neo 9,12,256,Google Tensor G2,5300,50,LTPO AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+Realme,Realme 12 Pro,8,128,Exynos 1330,5150,108,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,13.0,Mid-Range
+Google,Google Pixel 8a,12,256,Google Tensor G2,5350,108,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,No,Forest Green,14.0,Premium
+Redmi,Redmi 13C,6,64,MediaTek Helio G35,5500,48,IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Sunset Orange,12.0,Budget
+Vivo,Vivo X100 Pro,12,512,Snapdragon 8 Gen3,3650,50,Super Retina XDR OLED,6.5,1179 x 2556 (Super Retina XDR),Android,Yes,Ice Blue,16.0,Flagship
+Samsung,Samsung Galaxy S23 FE,8,256,Snapdragon 8 Gen3,4900,64,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Glacier White,15.0,Premium
+Realme,Realme 12 Pro,8,128,MediaTek Helio G99,5050,50,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Starlight,14.0,Mid-Range
+Infinix,Infinix Hot 30i,4,64,MediaTek Helio G35,4900,48,IPS LCD,6.5,720 x 1612 (HD+),Android,No,Lavender Purple,12.0,Budget
+Motorola,Moto E14,4,128,MediaTek Helio G35,4500,50,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Midnight Black,12.0,Budget
+Apple,iPhone 13,16,256,Apple A15 Bionic,3450,12,Super Retina XDR OLED,6.6,1080 x 2412 (FHD+),iOS,No,Aurora Green,14.0,Flagship
+Motorola,Moto Edge 50 Pro,8,128,Google Tensor G2,5300,200,LTPO AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Forest Green,14.0,Premium
+Vivo,Vivo Y200,8,256,Snapdragon 4 Gen2,4850,108,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,13.0,Mid-Range
+OnePlus,OnePlus Nord 4,8,128,Snapdragon 7 Gen2,4900,200,LTPO AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Ice Blue,14.0,Premium
+Samsung,Samsung Galaxy A54,8,256,Snapdragon 8 Gen3,4950,50,LTPO AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Pearl White,14.0,Premium
+itel,itel P55,4,128,MediaTek Helio G35,5450,50,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Coral Red,12.0,Budget
+Lava,Lava Blaze Curve,4,64,MediaTek Helio G35,4700,13,PLS LCD,6.7,720 x 1600 (HD+),Android,Yes,Titanium Grey,13.0,Budget
+Samsung,Samsung Galaxy A05,6,64,MediaTek Helio G85,5700,48,PLS LCD,6.7,720 x 1612 (HD+),Android,Yes,Glacier White,12.0,Budget
+Redmi,Redmi Note 13,8,128,Exynos 1330,5100,108,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,13.0,Mid-Range
+Apple,iPhone 15 Pro,12,512,Apple A17 Pro,4400,48,Super Retina XDR OLED,6.4,1179 x 2556 (Super Retina XDR),iOS,No,Sunset Orange,14.0,Flagship
+Samsung,Samsung Galaxy A55,8,128,Exynos 2200,5050,64,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Midnight Black,15.0,Premium
+Vivo,Vivo V29,12,256,Snapdragon 7 Gen2,5050,200,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Coral Red,14.0,Premium
+OnePlus,OnePlus Nord CE4,12,256,MediaTek Dimensity 8200,4900,200,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,15.0,Premium
+iQOO,iQOO Z7,8,128,MediaTek Helio G99,5300,64,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Graphite,14.0,Mid-Range
+Redmi,Redmi 13 Pro+,8,128,MediaTek Helio G99,5350,108,AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+Poco,Poco M6 Pro,6,128,Exynos 1330,5200,64,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,No,Lavender Purple,14.0,Mid-Range
+Redmi,Redmi Note 13 Pro,6,256,Exynos 1330,4800,108,IPS LCD,6.8,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+Vivo,Vivo V30 Pro,12,256,Snapdragon 7 Gen2,5350,108,LTPO AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Forest Green,14.0,Premium
+Samsung,Samsung Galaxy S24,12,512,Exynos 2200,4250,48,LTPO AMOLED,6.7,1440 x 3120 (QHD+),Android,Yes,Ocean Blue,16.0,Flagship
+Tecno,Tecno Spark 10,4,64,MediaTek Helio G35,5100,48,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Graphite,13.0,Budget
+Vivo,Vivo V29,12,256,Snapdragon 7 Gen3,5000,64,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,14.0,Premium
+Apple,iPhone 14 Pro,12,256,Apple A16 Bionic,4200,48,Super Retina XDR OLED,6.9,1179 x 2556 (Super Retina XDR),iOS,No,Glacier White,14.0,Flagship
+Samsung,Samsung Galaxy A55,8,256,Exynos 2400,4600,64,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+OnePlus,OnePlus 11,12,512,Snapdragon 8 Gen2,5350,108,Dynamic AMOLED 2X,6.7,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,15.0,Flagship
+iQOO,iQOO Neo 9,8,256,Snapdragon 7 Gen2,4800,200,AMOLED,6.7,1080 x 2412 (FHD+),Android,No,Titanium Grey,14.0,Premium
+Vivo,Vivo V29,12,256,Google Tensor G2,4800,64,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Pearl White,14.0,Premium
+Samsung,Samsung Galaxy S23 FE,8,128,Exynos 2400,5350,108,AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Coral Red,14.0,Premium
+iQOO,iQOO 12,12,128,Snapdragon 7 Gen3,5000,50,LTPO AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,15.0,Premium
+Google,Google Pixel 8 Pro,16,256,Google Tensor G3,3850,48,Dynamic AMOLED 2X,6.9,1179 x 2556 (Super Retina XDR),Android,Yes,Phantom Silver,15.0,Flagship
+Realme,Realme 11x,8,256,MediaTek Dimensity 7050,5200,108,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,13.0,Mid-Range
+Vivo,Vivo V30,8,256,Snapdragon 7 Gen2,5200,108,LTPO AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,14.0,Premium
+Infinix,Infinix Hot 40i,4,32,Unisoc T612,5000,13,PLS LCD,6.5,720 x 1600 (HD+),Android,Yes,Phantom Silver,13.0,Budget
+Vivo,Vivo Y02t,4,32,Unisoc T612,4800,13,PLS LCD,6.7,720 x 1612 (HD+),Android,Yes,Pearl White,12.0,Budget
+Tecno,Tecno Spark 10,4,32,MediaTek Helio G85,5050,13,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Coral Red,12.0,Budget
+Samsung,Samsung Galaxy S23 FE,12,256,Snapdragon 8 Gen3,5150,50,LTPO AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+Apple,iPhone 13,16,512,Apple A15 Bionic,4200,12,Super Retina XDR OLED,6.8,1440 x 3120 (QHD+),iOS,Yes,Aurora Green,14.0,Flagship
+Realme,Realme Narzo N55,4,128,MediaTek Dimensity 6100+,5600,48,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Pearl White,13.0,Budget
+Nothing,Nothing Phone 2,12,256,Snapdragon 7 Gen3,4900,108,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,No,Glacier White,14.0,Premium
+Oppo,Oppo Reno 11,12,128,Snapdragon 7 Gen2,5350,50,AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Starlight,14.0,Premium
+Vivo,Vivo T2 Pro,8,256,Snapdragon 6 Gen1,5200,64,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,14.0,Mid-Range
+Redmi,Redmi 13 Pro+,6,128,Exynos 1330,5050,50,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,13.0,Mid-Range
+iQOO,iQOO 12 Pro,16,256,Snapdragon 8 Gen3,4400,108,LTPO AMOLED,6.1,1179 x 2556 (Super Retina XDR),Android,Yes,Graphite,16.0,Flagship
+Samsung,Samsung Galaxy M04,4,64,Snapdragon 4 Gen1,5350,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Starlight,13.0,Budget
+Google,Google Pixel 7a,8,256,Google Tensor G2,4550,50,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Coral Red,14.0,Premium
+Samsung,Samsung Galaxy M04,4,128,MediaTek Helio G35,5100,50,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Phantom Silver,12.0,Budget
+Samsung,Samsung Galaxy S24+,16,256,Snapdragon 8 Gen3,4350,108,LTPO AMOLED,6.1,1440 x 3120 (QHD+),Android,Yes,Aurora Green,15.0,Flagship
+Oppo,Oppo Reno 8T,8,128,Exynos 1330,4850,64,IPS LCD,6.8,1080 x 2412 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Oppo,Oppo K11x,8,128,Exynos 1330,4800,64,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+Samsung,Samsung Galaxy Z Flip5,16,512,Snapdragon 8 Gen2,4900,108,Super Retina XDR OLED,6.3,1179 x 2556 (Super Retina XDR),Android,Yes,Ocean Blue,14.0,Flagship
+Poco,Poco M6 Pro,8,256,MediaTek Dimensity 7050,5050,50,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Starlight,14.0,Mid-Range
+Oppo,Oppo A18,6,128,MediaTek Dimensity 6100+,5800,50,PLS LCD,6.7,720 x 1612 (HD+),Android,Yes,Aurora Green,12.0,Budget
+Redmi,Redmi A2+,4,32,Unisoc T612,5550,13,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,No,Pearl White,12.0,Budget
+Vivo,Vivo Y17s,6,128,MediaTek Dimensity 6100+,5650,50,IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Phantom Silver,12.0,Budget
+Samsung,Samsung Galaxy S23 FE,12,128,Exynos 2200,5250,50,LTPO AMOLED,6.4,1080 x 2400 (FHD+),Android,Yes,Coral Red,15.0,Premium
+Poco,Poco M6 Pro,8,128,Exynos 1330,5150,108,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+Samsung,Samsung Galaxy A05,4,64,Unisoc T612,4650,50,PLS LCD,6.7,720 x 1600 (HD+),Android,Yes,Cosmic Black,13.0,Budget
+OnePlus,OnePlus Nord CE4,8,256,Google Tensor G2,4900,108,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+Poco,Poco X6,8,128,MediaTek Dimensity 7050,5050,50,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,14.0,Mid-Range
+Google,Google Pixel 8,16,512,Google Tensor G3,3850,200,Dynamic AMOLED 2X,6.2,1440 x 3120 (QHD+),Android,Yes,Graphite,15.0,Flagship
+OnePlus,OnePlus 12R,8,256,Google Tensor G2,4800,200,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Coral Red,14.0,Premium
+Infinix,Infinix Zero 30,8,128,Exynos 1330,5300,108,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Aurora Green,13.0,Mid-Range
+Redmi,Redmi A2+,4,32,Unisoc T612,4650,13,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Glacier White,12.0,Budget
+Samsung,Samsung Galaxy S23 Ultra,16,256,Exynos 2400,3500,200,Super Retina XDR OLED,6.3,1179 x 2556 (Super Retina XDR),Android,Yes,Sunset Orange,15.0,Flagship
+Oppo,Oppo A18,4,64,MediaTek Helio G35,5100,48,PLS LCD,6.7,720 x 1600 (HD+),Android,Yes,Graphite,12.0,Budget
+Samsung,Samsung Galaxy S24+,12,512,Exynos 2400,3750,108,Dynamic AMOLED 2X,6.2,1179 x 2556 (Super Retina XDR),Android,Yes,Cosmic Black,16.0,Flagship
+Vivo,Vivo Y02t,4,64,MediaTek Helio G85,5100,48,IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Cosmic Black,13.0,Budget
+Motorola,Moto E13,4,128,Snapdragon 4 Gen1,4600,50,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,No,Starlight,12.0,Budget
+Oppo,Oppo Reno 8T,6,256,MediaTek Helio G99,4950,50,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Starlight,14.0,Mid-Range
+Oppo,Oppo Reno 8T,6,128,Snapdragon 6 Gen1,5250,50,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Apple,iPhone 15 Pro,16,256,Apple A17 Pro,3350,48,Super Retina XDR OLED,6.3,1080 x 2412 (FHD+),iOS,Yes,Pearl White,14.0,Flagship
+Vivo,Vivo V30,12,256,Exynos 2200,4900,108,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Starlight,15.0,Premium
+Micromax,Micromax In Note 2,4,128,MediaTek Dimensity 6100+,4850,50,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+Oppo,Oppo A79,8,128,Exynos 1330,4850,108,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Oppo,Oppo F25 Pro,8,128,Snapdragon 7 Gen3,5350,200,AMOLED,6.4,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+Vivo,Vivo T2 Pro,6,256,Exynos 1330,5200,64,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Glacier White,13.0,Mid-Range
+Vivo,Vivo V29,8,256,Snapdragon 7 Gen3,5000,200,LTPO AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Coral Red,14.0,Premium
+Apple,iPhone 15,12,256,Apple A16 Bionic,3600,48,Super Retina XDR OLED,6.5,1440 x 3120 (QHD+),iOS,Yes,Ocean Blue,14.0,Flagship
+Motorola,Moto Edge 40,12,256,Snapdragon 7 Gen2,5050,108,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,14.0,Premium
+Samsung,Samsung Galaxy S23 FE,8,128,Snapdragon 8 Gen3,5300,200,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Starlight,15.0,Premium
+Oppo,Oppo A17,4,128,Snapdragon 4 Gen1,5600,48,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Ocean Blue,12.0,Budget
+Samsung,Samsung Galaxy M14,6,128,Exynos 1330,5300,50,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Forest Green,14.0,Mid-Range
+Oppo,Oppo A18,4,64,MediaTek Helio G85,5800,50,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Ocean Blue,13.0,Budget
+Samsung,Samsung Galaxy A54,8,128,Exynos 2200,5350,50,AMOLED,6.4,1080 x 2400 (FHD+),Android,Yes,Graphite,14.0,Premium
+Nothing,Nothing Phone 2a,8,256,Google Tensor G2,4800,108,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+Lava,Lava Blaze Curve,6,128,Snapdragon 4 Gen1,4900,48,PLS LCD,6.6,720 x 1600 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Samsung,Samsung Galaxy S24 Ultra,12,256,Snapdragon 8 Gen3,5200,48,LTPO AMOLED,6.3,1179 x 2556 (Super Retina XDR),Android,No,Titanium Grey,16.0,Flagship
+Apple,iPhone 14,16,512,Apple A15 Bionic,3950,12,Super Retina XDR OLED,6.7,1440 x 3120 (QHD+),iOS,Yes,Coral Red,14.0,Flagship
+Apple,iPhone 13,16,512,Apple A15 Bionic,4250,12,Super Retina XDR OLED,6.3,1440 x 3120 (QHD+),iOS,No,Coral Red,14.0,Flagship
+Google,Google Pixel 8a,12,256,Google Tensor G2,4500,50,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Starlight,14.0,Premium
+Realme,Realme 11x,6,128,Snapdragon 4 Gen2,5100,50,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Graphite,14.0,Mid-Range
+OnePlus,OnePlus Nord 4,12,256,MediaTek Dimensity 8200,5050,108,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+Samsung,Samsung Galaxy A05,6,64,MediaTek Dimensity 6100+,5550,13,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Samsung,Samsung Galaxy A54,12,256,Exynos 2200,5000,50,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Graphite,14.0,Premium
+iQOO,iQOO Neo 9,12,256,Google Tensor G2,5100,64,LTPO AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,15.0,Premium
+Google,Google Pixel 7a,8,128,Google Tensor G2,5100,50,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Glacier White,15.0,Premium
+Realme,Realme Narzo N55,6,32,MediaTek Helio G85,5550,13,PLS LCD,6.7,720 x 1612 (HD+),Android,Yes,Glacier White,12.0,Budget
+Apple,iPhone 15 Pro,16,512,Apple A17 Pro,4000,48,Super Retina XDR OLED,6.7,1080 x 2412 (FHD+),iOS,Yes,Ice Blue,14.0,Flagship
+Redmi,Redmi A3,4,64,MediaTek Helio G85,5100,48,PLS LCD,6.6,720 x 1600 (HD+),Android,Yes,Coral Red,12.0,Budget
+Infinix,Infinix Zero 30,8,128,Snapdragon 4 Gen2,5500,108,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Starlight,13.0,Mid-Range
+Realme,Realme 11x,6,128,Exynos 1330,5450,64,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,14.0,Mid-Range
+OnePlus,OnePlus Nord CE4,8,128,Snapdragon 7 Gen2,5200,64,LTPO AMOLED,6.4,1080 x 2400 (FHD+),Android,Yes,Ice Blue,14.0,Premium
+Samsung,Samsung Galaxy M04,4,128,Snapdragon 4 Gen1,5500,50,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Forest Green,12.0,Budget
+Vivo,Vivo V30 Pro,8,128,Exynos 2200,5350,64,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Ice Blue,14.0,Premium
+Samsung,Samsung Galaxy Z Flip5,12,256,Exynos 2200,5150,200,Dynamic AMOLED 2X,6.5,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,15.0,Flagship
+Redmi,Redmi A2+,4,32,Unisoc T612,5100,50,PLS LCD,6.5,720 x 1600 (HD+),Android,Yes,Forest Green,12.0,Budget
+Apple,iPhone 13,16,512,Apple A15 Bionic,3500,12,Super Retina XDR OLED,6.9,1440 x 3120 (QHD+),iOS,Yes,Midnight Black,14.0,Flagship
+Infinix,Infinix Hot 30i,4,64,MediaTek Dimensity 6100+,6000,50,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Midnight Black,13.0,Budget
+Tecno,Tecno Pop 8,4,32,Unisoc T612,5250,50,IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Coral Red,13.0,Budget
+Apple,iPhone 15 Pro Max,16,512,Apple A17 Pro,3750,48,Super Retina XDR OLED,6.6,1440 x 3120 (QHD+),iOS,Yes,Lavender Purple,14.0,Flagship
+Oppo,Oppo A79,6,128,Snapdragon 4 Gen2,5300,50,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Coral Red,13.0,Mid-Range
+iQOO,iQOO 12,8,256,Exynos 2200,5350,50,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Midnight Black,15.0,Premium
+Motorola,Moto Edge 40 Neo,6,128,MediaTek Helio G99,4800,108,IPS LCD,6.5,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,14.0,Mid-Range
+Asus,Asus ROG Phone 8,16,256,MediaTek Dimensity 9200+,4950,50,Dynamic AMOLED 2X,6.9,1080 x 2412 (FHD+),Android,Yes,Glacier White,15.0,Flagship
+Apple,iPhone 15,16,256,Apple A16 Bionic,4400,48,Super Retina XDR OLED,6.6,1440 x 3120 (QHD+),iOS,Yes,Lavender Purple,14.0,Flagship
+Redmi,Redmi Note 13,6,128,MediaTek Helio G99,5250,108,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,13.0,Mid-Range
+Realme,Realme 11x,6,128,Exynos 1330,5450,50,IPS LCD,6.5,1080 x 2400 (FHD+),Android,Yes,Coral Red,14.0,Mid-Range
+Google,Google Pixel 7a,8,256,Google Tensor G2,4950,64,LTPO AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Aurora Green,15.0,Premium
+Samsung,Samsung Galaxy Z Fold5,16,512,Exynos 2200,4250,108,Dynamic AMOLED 2X,6.5,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,14.0,Flagship
+Vivo,Vivo T2 Pro,6,256,Exynos 1330,5350,64,IPS LCD,6.8,1080 x 2412 (FHD+),Android,Yes,Starlight,14.0,Mid-Range
+Samsung,Samsung Galaxy M14,8,128,MediaTek Dimensity 7050,5350,64,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Starlight,13.0,Mid-Range
+OnePlus,OnePlus 11,12,256,Snapdragon 8 Gen3,4350,50,LTPO AMOLED,6.2,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,14.0,Flagship
+iQOO,iQOO Z7,8,128,Snapdragon 4 Gen2,5400,50,IPS LCD,6.7,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,14.0,Mid-Range
+Infinix,Infinix Hot 30i,4,32,MediaTek Helio G85,4900,50,IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Poco,Poco M6 Pro,8,128,Exynos 1330,5350,108,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Coral Red,13.0,Mid-Range
+Motorola,Moto E14,4,64,Unisoc T612,5150,48,IPS LCD,6.6,720 x 1600 (HD+),Android,No,Lavender Purple,13.0,Budget
+Samsung,Samsung Galaxy M14,6,128,MediaTek Dimensity 7050,5200,108,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,13.0,Mid-Range
+Samsung,Samsung Galaxy A54,12,256,Snapdragon 8 Gen3,5250,108,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Forest Green,15.0,Premium
+Asus,Asus ROG Phone 8,12,512,Snapdragon 8 Gen2,3350,200,Dynamic AMOLED 2X,6.3,1080 x 2412 (FHD+),Android,Yes,Midnight Black,15.0,Flagship
+Realme,Realme 11x,8,256,Exynos 1330,4800,50,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,14.0,Mid-Range
+Samsung,Samsung Galaxy Z Fold5,16,256,Snapdragon 8 Gen2,3700,50,Dynamic AMOLED 2X,6.6,1440 x 3120 (QHD+),Android,Yes,Sunset Orange,15.0,Flagship
+OnePlus,OnePlus 12R,12,256,Snapdragon 7 Gen3,5200,64,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Starlight,14.0,Premium
+Redmi,Redmi 13C,6,32,MediaTek Helio G35,5950,13,IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Sunset Orange,13.0,Budget
+iQOO,iQOO 12 Pro,12,256,Google Tensor G3,5250,108,Dynamic AMOLED 2X,6.6,1440 x 3120 (QHD+),Android,Yes,Lavender Purple,14.0,Flagship
+Vivo,Vivo Y17s,4,64,Snapdragon 4 Gen1,4650,48,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Cosmic Black,13.0,Budget
+Oppo,Oppo A79,6,256,MediaTek Helio G99,4850,50,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Starlight,14.0,Mid-Range
+Apple,iPhone 14 Pro,12,512,Apple A16 Bionic,3850,48,Super Retina XDR OLED,6.5,1179 x 2556 (Super Retina XDR),iOS,Yes,Glacier White,14.0,Flagship
+Realme,Realme C53,4,64,MediaTek Helio G85,5950,13,IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Oppo,Oppo Reno 11,8,128,MediaTek Dimensity 8200,4950,108,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Coral Red,15.0,Premium
+Samsung,Samsung Galaxy M14,6,128,Snapdragon 4 Gen2,4900,108,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,No,Glacier White,13.0,Mid-Range
+iQOO,iQOO Neo 9,8,256,Exynos 2200,4650,64,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Aurora Green,14.0,Premium
+Tecno,Tecno Spark 10,4,64,MediaTek Helio G85,6000,50,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Midnight Black,12.0,Budget
+Vivo,Vivo Y200,8,128,Exynos 1330,5450,108,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,13.0,Mid-Range
+Tecno,Tecno Pova 5,8,256,Exynos 1330,5400,50,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,13.0,Mid-Range
+Samsung,Samsung Galaxy Z Flip5,12,512,Snapdragon 8 Gen2,5200,50,LTPO AMOLED,6.8,1179 x 2556 (Super Retina XDR),Android,No,Pearl White,16.0,Flagship
+OnePlus,OnePlus 12R,8,256,Snapdragon 7 Gen3,5250,200,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Graphite,14.0,Premium
+Infinix,Infinix Zero 30,6,128,Snapdragon 4 Gen2,5400,108,IPS LCD,6.7,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,13.0,Mid-Range
+OnePlus,OnePlus Nord CE4,12,256,Exynos 2200,4600,50,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,15.0,Premium
+Vivo,Vivo V30,12,256,Google Tensor G2,5200,64,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Forest Green,14.0,Premium
+Oppo,Oppo A17,4,64,Unisoc T612,5450,13,PLS LCD,6.6,720 x 1612 (HD+),Android,No,Ice Blue,13.0,Budget
+Redmi,Redmi Note 13,6,128,MediaTek Helio G99,5450,50,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,13.0,Mid-Range
+Realme,Realme 12 Pro,8,128,Exynos 1330,5450,50,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+Samsung,Samsung Galaxy M14,6,128,MediaTek Helio G99,4850,108,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+Samsung,Samsung Galaxy A54,12,256,Exynos 2400,5100,200,LTPO AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Graphite,14.0,Premium
+iQOO,iQOO 12,8,256,Snapdragon 7 Gen3,4800,50,AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Aurora Green,15.0,Premium
+Vivo,Vivo T2 Pro,8,128,MediaTek Dimensity 7050,5300,108,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Aurora Green,13.0,Mid-Range
+Samsung,Samsung Galaxy M14,8,128,Exynos 1330,4950,50,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+Redmi,Redmi Note 13,6,128,Snapdragon 6 Gen1,5100,50,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+Redmi,Redmi Note 13,8,256,MediaTek Helio G99,5350,50,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,14.0,Mid-Range
+Vivo,Vivo X100 Pro,12,256,MediaTek Dimensity 9200+,4750,48,LTPO AMOLED,6.7,1440 x 3120 (QHD+),Android,Yes,Starlight,15.0,Flagship
+OnePlus,OnePlus 11,12,512,Snapdragon 8 Gen3,4150,50,Dynamic AMOLED 2X,6.4,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,15.0,Flagship
+Oppo,Oppo K11x,8,256,Snapdragon 6 Gen1,4950,64,IPS LCD,6.8,1080 x 2412 (FHD+),Android,Yes,Pearl White,13.0,Mid-Range
+Samsung,Samsung Galaxy M04,6,128,MediaTek Helio G85,5700,50,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,No,Starlight,12.0,Budget
+Oppo,Oppo Reno 8T,8,128,Exynos 1330,5150,108,IPS LCD,6.7,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,14.0,Mid-Range
+Redmi,Redmi 13 Pro+,8,128,Exynos 1330,5000,64,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Samsung,Samsung Galaxy A15,6,128,Snapdragon 6 Gen1,5450,64,IPS LCD,6.8,1080 x 2400 (FHD+),Android,Yes,Coral Red,13.0,Mid-Range
+Apple,iPhone 15 Pro Max,12,512,Apple A17 Pro,3900,48,Super Retina XDR OLED,6.8,1440 x 3120 (QHD+),iOS,No,Sunset Orange,14.0,Flagship
+Redmi,Redmi 13C,4,32,Snapdragon 4 Gen1,5800,48,PLS LCD,6.6,720 x 1600 (HD+),Android,No,Ocean Blue,12.0,Budget
+Micromax,Micromax In 2b,6,32,MediaTek Helio G35,5900,48,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Phantom Silver,12.0,Budget
+Vivo,Vivo Y17s,4,64,Unisoc T612,4800,48,IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Graphite,13.0,Budget
+Tecno,Tecno Spark 10,4,128,MediaTek Dimensity 6100+,5900,48,IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Ocean Blue,13.0,Budget
+Oppo,Oppo Reno 11 Pro,12,128,Snapdragon 7 Gen3,4800,50,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Pearl White,15.0,Premium
+Samsung,Samsung Galaxy Z Flip5,12,512,Exynos 2400,4500,48,Dynamic AMOLED 2X,6.4,1179 x 2556 (Super Retina XDR),Android,Yes,Cosmic Black,14.0,Flagship
+Tecno,Tecno Pova 5,8,128,Exynos 1330,5400,64,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Starlight,13.0,Mid-Range
+Micromax,Micromax In Note 2,4,32,MediaTek Helio G35,5300,50,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Cosmic Black,13.0,Budget
+Redmi,Redmi Note 13,8,128,Snapdragon 4 Gen2,5000,50,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Pearl White,14.0,Mid-Range
+OnePlus,OnePlus Nord CE4,12,256,Snapdragon 7 Gen3,4550,64,AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+iQOO,iQOO Neo 9,8,128,Snapdragon 7 Gen3,5200,50,AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Starlight,15.0,Premium
+Redmi,Redmi 13C,4,32,MediaTek Helio G35,5200,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Samsung,Samsung Galaxy M14,8,256,MediaTek Dimensity 7050,5200,50,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+OnePlus,OnePlus Nord 4,8,128,Exynos 2200,4850,200,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,15.0,Premium
+Oppo,Oppo Reno 11 Pro,8,256,MediaTek Dimensity 8200,4800,50,LTPO AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+Realme,Realme C55,6,32,Snapdragon 4 Gen1,5100,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,No,Phantom Silver,12.0,Budget
+Realme,Realme 11x,6,128,MediaTek Helio G99,5400,64,IPS LCD,6.5,1080 x 2400 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Vivo,Vivo T2 Pro,6,128,Snapdragon 6 Gen1,5450,64,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,13.0,Mid-Range
+Redmi,Redmi Note 13,8,128,Snapdragon 6 Gen1,5050,108,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Vivo,Vivo Y200,6,256,Snapdragon 4 Gen2,4850,64,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,13.0,Mid-Range
+iQOO,iQOO 12,12,256,Snapdragon 7 Gen3,4600,64,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Coral Red,14.0,Premium
+Samsung,Samsung Galaxy M14,8,128,Exynos 1330,5050,50,IPS LCD,6.7,1080 x 2400 (FHD+),Android,Yes,Ice Blue,14.0,Mid-Range
+Vivo,Vivo V30,8,128,Snapdragon 7 Gen3,4850,200,LTPO AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Aurora Green,14.0,Premium
+Google,Google Pixel 8,12,256,Google Tensor G3,3700,50,Dynamic AMOLED 2X,6.1,1440 x 3120 (QHD+),Android,Yes,Phantom Silver,15.0,Flagship
+Redmi,Redmi 13C,4,64,MediaTek Helio G35,4550,13,IPS LCD,6.7,720 x 1612 (HD+),Android,No,Pearl White,12.0,Budget
+Oppo,Oppo A17,4,128,Snapdragon 4 Gen1,5500,13,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Aurora Green,12.0,Budget
+Oppo,Oppo A17,4,64,Snapdragon 4 Gen1,5350,50,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Glacier White,12.0,Budget
+Nothing,Nothing Phone 2,8,256,MediaTek Dimensity 8200,5000,200,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,15.0,Premium
+Oppo,Oppo A18,4,128,MediaTek Dimensity 6100+,5250,50,IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Titanium Grey,13.0,Budget
+Google,Google Pixel 7a,8,256,Google Tensor G2,5350,200,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Starlight,15.0,Premium
+Google,Google Pixel 7a,12,256,Google Tensor G2,5100,64,LTPO AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Coral Red,15.0,Premium
+Samsung,Samsung Galaxy M14,6,128,Snapdragon 4 Gen2,5000,50,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,13.0,Mid-Range
+Poco,Poco M6 Pro,6,128,MediaTek Dimensity 7050,5400,108,IPS LCD,6.8,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+iQOO,iQOO Neo 9,12,256,MediaTek Dimensity 8200,4650,64,LTPO AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,14.0,Premium
+Motorola,Moto E14,4,64,Snapdragon 4 Gen1,5150,50,PLS LCD,6.5,720 x 1612 (HD+),Android,Yes,Ice Blue,13.0,Budget
+Tecno,Tecno Camon 20,6,256,MediaTek Helio G99,5450,50,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+Motorola,Moto E13,4,64,Snapdragon 4 Gen1,4500,48,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Starlight,12.0,Budget
+OnePlus,OnePlus 12R,12,128,Exynos 2200,5000,200,Super AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Pearl White,15.0,Premium
+iQOO,iQOO Neo 9,12,128,Snapdragon 7 Gen2,4800,50,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,No,Aurora Green,14.0,Premium
+Micromax,Micromax In 2b,4,128,MediaTek Helio G35,5400,50,IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Phantom Silver,12.0,Budget
+Samsung,Samsung Galaxy A25,8,256,MediaTek Helio G99,5100,50,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Coral Red,13.0,Mid-Range
+Lava,Lava Blaze 2,4,128,MediaTek Helio G85,4700,13,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Coral Red,12.0,Budget
+Realme,Realme 12 Pro,8,128,Snapdragon 4 Gen2,5200,50,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,13.0,Mid-Range
+Poco,Poco M6 Pro,6,128,Snapdragon 6 Gen1,4900,108,AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,13.0,Mid-Range
+Oppo,Oppo Find X7,16,512,Snapdragon 8 Gen3,5250,108,Dynamic AMOLED 2X,6.8,1179 x 2556 (Super Retina XDR),Android,Yes,Lavender Purple,15.0,Flagship
+Samsung,Samsung Galaxy M04,4,64,MediaTek Helio G85,4750,13,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Pearl White,13.0,Budget
+Realme,Realme C53,4,32,Snapdragon 4 Gen1,5650,48,PLS LCD,6.7,720 x 1612 (HD+),Android,Yes,Forest Green,12.0,Budget
+iQOO,iQOO 12,8,256,Snapdragon 7 Gen3,4650,50,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Forest Green,14.0,Premium
+Apple,iPhone 15 Pro Max,16,512,Apple A17 Pro,4250,48,Super Retina XDR OLED,6.2,1440 x 3120 (QHD+),iOS,Yes,Cosmic Black,14.0,Flagship
+OnePlus,OnePlus 12R,8,128,Exynos 2200,4800,108,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+OnePlus,OnePlus 12,12,256,Exynos 2400,4600,108,Super Retina XDR OLED,6.6,1179 x 2556 (Super Retina XDR),Android,No,Coral Red,15.0,Flagship
+Apple,iPhone 15,16,256,Apple A16 Bionic,4350,48,Super Retina XDR OLED,6.2,1440 x 3120 (QHD+),iOS,Yes,Starlight,14.0,Flagship
+Google,Google Pixel 8,12,256,Google Tensor G3,4100,48,Dynamic AMOLED 2X,6.5,1440 x 3120 (QHD+),Android,Yes,Ice Blue,15.0,Flagship
+Vivo,Vivo Y02t,4,32,MediaTek Helio G85,5250,48,PLS LCD,6.5,720 x 1612 (HD+),Android,Yes,Graphite,13.0,Budget
+Poco,Poco M6 Pro,6,128,Snapdragon 6 Gen1,5200,50,IPS LCD,6.8,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,13.0,Mid-Range
+Redmi,Redmi A3,4,128,MediaTek Helio G85,5800,13,PLS LCD,6.5,720 x 1600 (HD+),Android,Yes,Titanium Grey,13.0,Budget
+OnePlus,OnePlus 11,16,256,Exynos 2400,4350,50,LTPO AMOLED,6.6,1179 x 2556 (Super Retina XDR),Android,Yes,Glacier White,14.0,Flagship
+Motorola,Moto E14,4,64,MediaTek Helio G35,5500,13,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Titanium Grey,13.0,Budget
+Google,Google Pixel 8a,8,128,Google Tensor G2,5050,64,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Ice Blue,14.0,Premium
+Motorola,Moto Edge 40,12,256,Exynos 2200,5250,50,LTPO AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,15.0,Premium
+Samsung,Samsung Galaxy A54,12,256,Exynos 2200,5350,64,LTPO AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Ice Blue,14.0,Premium
+Samsung,Samsung Galaxy S23 FE,12,256,Snapdragon 8 Gen2,4750,108,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+Samsung,Samsung Galaxy S23 FE,12,128,Snapdragon 8 Gen2,5000,64,LTPO AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+Vivo,Vivo Y17s,4,64,Snapdragon 4 Gen1,5650,48,IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Ocean Blue,12.0,Budget
+Tecno,Tecno Pova 5,6,128,Exynos 1330,5100,50,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+iQOO,iQOO 12,12,256,Exynos 2200,4500,50,LTPO AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Forest Green,14.0,Premium
+Samsung,Samsung Galaxy S23 FE,8,256,Snapdragon 8 Gen3,4750,108,Super AMOLED,6.4,1080 x 2400 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+Lava,Lava Bold 2,6,64,Snapdragon 4 Gen1,5900,13,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Forest Green,12.0,Budget
+Infinix,Infinix Smart 8,4,32,MediaTek Dimensity 6100+,5550,13,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Glacier White,13.0,Budget
+Realme,Realme C55,4,32,MediaTek Helio G35,4600,50,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+Vivo,Vivo V30 Pro,8,256,Exynos 2200,5200,50,LTPO AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Glacier White,14.0,Premium
+Vivo,Vivo Y200,6,128,Exynos 1330,5000,108,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,14.0,Mid-Range
+Poco,Poco X6 Pro,8,128,Exynos 1330,5150,50,IPS LCD,6.7,1080 x 2400 (FHD+),Android,Yes,Pearl White,14.0,Mid-Range
+OnePlus,OnePlus Nord 4,8,256,Snapdragon 7 Gen2,4750,64,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,No,Pearl White,14.0,Premium
+Google,Google Pixel 8 Pro,16,256,Google Tensor G3,3750,48,Dynamic AMOLED 2X,6.8,1440 x 3120 (QHD+),Android,Yes,Aurora Green,15.0,Flagship
+Samsung,Samsung Galaxy A25,8,256,Snapdragon 6 Gen1,5200,64,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Titanium Grey,13.0,Mid-Range
+Samsung,Samsung Galaxy A55,8,128,Snapdragon 8 Gen3,5200,50,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Starlight,15.0,Premium
+Vivo,Vivo V30,12,256,Snapdragon 7 Gen2,5400,64,Super AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+Tecno,Tecno Spark 10,4,32,Snapdragon 4 Gen1,5850,50,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Glacier White,12.0,Budget
+Apple,iPhone 15 Pro,12,256,Apple A17 Pro,3600,48,Super Retina XDR OLED,6.8,1080 x 2412 (FHD+),iOS,Yes,Ocean Blue,14.0,Flagship
+Oppo,Oppo Reno 11 Pro,12,128,Google Tensor G2,4750,200,Super AMOLED,6.4,1080 x 2400 (FHD+),Android,Yes,Graphite,14.0,Premium
+Redmi,Redmi A2+,4,128,MediaTek Helio G35,4700,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,No,Ocean Blue,13.0,Budget
+OnePlus,OnePlus 12,16,256,MediaTek Dimensity 9200+,3500,50,LTPO AMOLED,6.5,1179 x 2556 (Super Retina XDR),Android,Yes,Coral Red,15.0,Flagship
+OnePlus,OnePlus Nord CE4,8,128,MediaTek Dimensity 8200,4850,108,LTPO AMOLED,6.7,1080 x 2412 (FHD+),Android,No,Aurora Green,14.0,Premium
+Samsung,Samsung Galaxy F04,6,32,Unisoc T612,5750,13,IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Coral Red,12.0,Budget
+OnePlus,OnePlus 12R,8,256,Google Tensor G2,4650,200,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,No,Ice Blue,14.0,Premium
+Samsung,Samsung Galaxy A25,8,256,MediaTek Dimensity 7050,5400,50,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Realme,Realme 11x,6,128,Exynos 1330,5150,64,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Forest Green,14.0,Mid-Range
+iQOO,iQOO Z9,6,128,MediaTek Dimensity 7050,5450,108,AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Ice Blue,14.0,Mid-Range
+Samsung,Samsung Galaxy Z Flip5,16,512,Snapdragon 8 Gen2,4750,200,Super Retina XDR OLED,6.9,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,15.0,Flagship
+Apple,iPhone 13,12,256,Apple A15 Bionic,4100,12,Super Retina XDR OLED,6.1,1440 x 3120 (QHD+),iOS,No,Titanium Grey,14.0,Flagship
+Vivo,Vivo V30,12,128,Snapdragon 7 Gen2,5200,108,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Graphite,15.0,Premium
+Google,Google Pixel 8a,8,256,Google Tensor G2,5300,108,LTPO AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Starlight,15.0,Premium
+Samsung,Samsung Galaxy M14,8,128,Snapdragon 4 Gen2,5250,50,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Motorola,Moto Edge 40,12,128,Snapdragon 7 Gen2,4700,64,LTPO AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Realme,Realme C53,4,64,Snapdragon 4 Gen1,5950,13,IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Starlight,13.0,Budget
+iQOO,iQOO 12,12,128,MediaTek Dimensity 8200,5050,64,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,15.0,Premium
+Realme,Realme Narzo 60,8,128,MediaTek Helio G99,5100,50,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,13.0,Mid-Range
+Tecno,Tecno Spark 10,4,32,Unisoc T612,5300,13,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Forest Green,13.0,Budget
+Apple,iPhone 15 Pro,16,256,Apple A17 Pro,3400,48,Super Retina XDR OLED,6.8,1179 x 2556 (Super Retina XDR),iOS,No,Lavender Purple,14.0,Flagship
+Micromax,Micromax In 2b,4,64,MediaTek Helio G85,5900,48,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Google,Google Pixel 7a,8,256,Google Tensor G2,5250,108,AMOLED,6.4,1080 x 2400 (FHD+),Android,Yes,Titanium Grey,15.0,Premium
+Vivo,Vivo Y02t,6,128,Snapdragon 4 Gen1,5800,48,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Lavender Purple,12.0,Budget
+Samsung,Samsung Galaxy A54,8,256,Snapdragon 8 Gen2,4850,50,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Forest Green,14.0,Premium
+Motorola,Moto G84,8,128,Snapdragon 4 Gen2,5000,50,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,14.0,Mid-Range
+Samsung,Samsung Galaxy F04,4,32,MediaTek Dimensity 6100+,5650,13,IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Lavender Purple,13.0,Budget
+Apple,iPhone 15 Pro Max,16,256,Apple A17 Pro,4150,48,Super Retina XDR OLED,6.8,1080 x 2412 (FHD+),iOS,No,Aurora Green,14.0,Flagship
+Vivo,Vivo Y17s,4,64,MediaTek Dimensity 6100+,4600,50,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,No,Ocean Blue,12.0,Budget
+Samsung,Samsung Galaxy A55,12,128,Snapdragon 8 Gen3,4600,108,LTPO AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Coral Red,14.0,Premium
+Oppo,Oppo F25 Pro,8,256,Google Tensor G2,4850,108,Super AMOLED,6.4,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,15.0,Premium
+Oppo,Oppo Reno 11 Pro,8,256,MediaTek Dimensity 8200,5400,200,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Realme,Realme C53,4,64,Unisoc T612,5800,13,PLS LCD,6.7,720 x 1600 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Samsung,Samsung Galaxy A54,8,128,Exynos 2200,5050,200,LTPO AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Starlight,15.0,Premium
+Vivo,Vivo V30,8,256,MediaTek Dimensity 8200,5000,50,LTPO AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Graphite,15.0,Premium
+Realme,Realme C53,4,64,MediaTek Dimensity 6100+,5650,50,IPS LCD,6.7,720 x 1612 (HD+),Android,No,Starlight,12.0,Budget
+Infinix,Infinix Smart 8,4,64,MediaTek Dimensity 6100+,5250,48,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,No,Cosmic Black,12.0,Budget
+Motorola,Moto E14,4,64,Snapdragon 4 Gen1,5850,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Forest Green,12.0,Budget
+Realme,Realme 12 Pro,8,128,Snapdragon 4 Gen2,4800,108,IPS LCD,6.5,1080 x 2412 (FHD+),Android,No,Cosmic Black,13.0,Mid-Range
+Infinix,Infinix Hot 30i,4,64,Snapdragon 4 Gen1,5200,50,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Graphite,12.0,Budget
+Oppo,Oppo Reno 11,8,128,Google Tensor G2,5100,64,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Aurora Green,14.0,Premium
+Apple,iPhone 15,12,512,Apple A16 Bionic,3900,48,Super Retina XDR OLED,6.3,1440 x 3120 (QHD+),iOS,Yes,Coral Red,14.0,Flagship
+Vivo,Vivo Y17s,4,64,MediaTek Helio G85,6000,50,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,No,Glacier White,12.0,Budget
+Lava,Lava Blaze Curve,4,32,MediaTek Helio G85,5450,50,PLS LCD,6.7,720 x 1600 (HD+),Android,Yes,Starlight,12.0,Budget
+Samsung,Samsung Galaxy F04,4,128,MediaTek Dimensity 6100+,5350,48,IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Starlight,12.0,Budget
+Motorola,Moto Edge 40 Neo,6,128,MediaTek Dimensity 7050,5050,64,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Glacier White,13.0,Mid-Range
+Samsung,Samsung Galaxy M04,4,32,Snapdragon 4 Gen1,5850,13,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Glacier White,13.0,Budget
+Vivo,Vivo V30 Pro,12,256,MediaTek Dimensity 8200,5150,108,LTPO AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Starlight,15.0,Premium
+Realme,Realme 11x,8,128,MediaTek Helio G99,5400,64,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,13.0,Mid-Range
+Samsung,Samsung Galaxy A54,8,128,Snapdragon 8 Gen3,5000,200,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+Apple,iPhone 15 Pro,16,256,Apple A17 Pro,3450,48,Super Retina XDR OLED,6.3,1179 x 2556 (Super Retina XDR),iOS,No,Midnight Black,14.0,Flagship
+Google,Google Pixel 8a,12,256,Google Tensor G2,5100,50,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,15.0,Premium
+Redmi,Redmi 13 Pro+,6,256,MediaTek Dimensity 7050,5500,50,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+Oppo,Oppo Reno 11 Pro,12,256,Snapdragon 7 Gen3,5050,50,LTPO AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Ice Blue,15.0,Premium
+Apple,iPhone 14 Pro,12,512,Apple A16 Bionic,3700,48,Super Retina XDR OLED,6.8,1179 x 2556 (Super Retina XDR),iOS,Yes,Glacier White,14.0,Flagship
+Vivo,Vivo T2 Pro,8,128,Snapdragon 6 Gen1,5300,64,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Nothing,Nothing Phone 2a,12,256,Snapdragon 7 Gen2,5000,50,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,15.0,Premium
+Nothing,Nothing Phone 2a,12,256,Google Tensor G2,4500,108,AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Pearl White,14.0,Premium
+Oppo,Oppo A18,4,64,MediaTek Helio G85,5650,48,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Samsung,Samsung Galaxy S24+,12,512,Exynos 2200,3950,48,Dynamic AMOLED 2X,6.6,1440 x 3120 (QHD+),Android,Yes,Graphite,14.0,Flagship
+Samsung,Samsung Galaxy S23 FE,12,256,Exynos 2200,5000,108,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+Realme,Realme C55,6,128,MediaTek Dimensity 6100+,4550,50,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Coral Red,12.0,Budget
+Samsung,Samsung Galaxy A54,8,128,Snapdragon 8 Gen3,4900,50,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Redmi,Redmi 13C,4,64,MediaTek Helio G85,5500,48,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Pearl White,12.0,Budget
+itel,itel A60s,4,32,Unisoc T612,5000,50,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Redmi,Redmi Note 13 Pro,8,128,Snapdragon 4 Gen2,5350,108,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Oppo,Oppo A79,6,128,Exynos 1330,5450,50,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,13.0,Mid-Range
+Samsung,Samsung Galaxy A15,6,256,Snapdragon 4 Gen2,5450,108,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,14.0,Mid-Range
+Motorola,Moto G54,6,128,Snapdragon 4 Gen2,5100,64,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+Vivo,Vivo Y200,6,128,MediaTek Dimensity 7050,5150,50,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Graphite,14.0,Mid-Range
+Nokia,Nokia G60,8,128,MediaTek Dimensity 7050,5000,50,IPS LCD,6.7,1080 x 2400 (FHD+),Android,Yes,Ice Blue,14.0,Mid-Range
+itel,itel A70,4,32,Snapdragon 4 Gen1,5600,13,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Ocean Blue,12.0,Budget
+OnePlus,OnePlus 12R,12,128,Snapdragon 7 Gen3,5250,108,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+Google,Google Pixel 8a,12,256,Google Tensor G2,5400,108,LTPO AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Samsung,Samsung Galaxy A54,12,256,Exynos 2200,4850,200,LTPO AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+Tecno,Tecno Spark 10,4,64,Unisoc T612,5450,50,IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Midnight Black,12.0,Budget
+Samsung,Samsung Galaxy S23 FE,12,128,Exynos 2400,5050,200,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Glacier White,14.0,Premium
+Micromax,Micromax In 2b,4,64,MediaTek Dimensity 6100+,5050,48,IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Vivo,Vivo V30 Pro,12,128,MediaTek Dimensity 8200,4500,64,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+iQOO,iQOO Neo 9,8,128,Snapdragon 7 Gen2,5000,64,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+OnePlus,OnePlus Nord 4,8,128,MediaTek Dimensity 8200,5300,200,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+Samsung,Samsung Galaxy Z Fold5,12,256,Exynos 2400,4300,48,Dynamic AMOLED 2X,6.7,1179 x 2556 (Super Retina XDR),Android,No,Cosmic Black,15.0,Flagship
+Oppo,Oppo K11x,8,128,Snapdragon 6 Gen1,5350,108,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,13.0,Mid-Range
+Samsung,Samsung Galaxy S24,12,512,Exynos 2400,4650,48,Dynamic AMOLED 2X,6.6,1179 x 2556 (Super Retina XDR),Android,Yes,Phantom Silver,14.0,Flagship
+OnePlus,OnePlus 11,12,256,Snapdragon 8 Gen2,4300,50,LTPO AMOLED,6.6,1440 x 3120 (QHD+),Android,Yes,Starlight,14.0,Flagship
+Samsung,Samsung Galaxy F04,4,64,Snapdragon 4 Gen1,5000,48,PLS LCD,6.7,720 x 1612 (HD+),Android,Yes,Phantom Silver,12.0,Budget
+Oppo,Oppo Reno 11,12,128,Exynos 2200,5200,200,LTPO AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Graphite,14.0,Premium
+Realme,Realme 12 Pro,8,256,Snapdragon 4 Gen2,4950,50,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,13.0,Mid-Range
+Motorola,Moto Edge 40 Neo,8,256,MediaTek Dimensity 7050,4800,108,AMOLED,6.6,1080 x 2400 (FHD+),Android,No,Lavender Purple,13.0,Mid-Range
+Samsung,Samsung Galaxy F04,4,64,Unisoc T612,5350,50,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Midnight Black,12.0,Budget
+Lava,Lava Blaze 2,6,64,MediaTek Helio G35,4550,50,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Ice Blue,13.0,Budget
+Redmi,Redmi 13C,4,32,MediaTek Helio G85,5850,48,IPS LCD,6.7,720 x 1612 (HD+),Android,No,Lavender Purple,13.0,Budget
+Apple,iPhone 14 Pro,12,512,Apple A16 Bionic,3850,48,Super Retina XDR OLED,6.1,1080 x 2412 (FHD+),iOS,No,Titanium Grey,14.0,Flagship
+Infinix,Infinix Hot 40i,4,32,MediaTek Helio G85,5600,48,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Vivo,Vivo T2 Pro,6,256,Snapdragon 4 Gen2,5150,108,AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Aurora Green,14.0,Mid-Range
+Realme,Realme Narzo 60,8,128,MediaTek Helio G99,5350,64,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+Samsung,Samsung Galaxy S23 FE,12,256,Exynos 2200,4850,200,Super AMOLED,6.4,1080 x 2412 (FHD+),Android,No,Titanium Grey,15.0,Premium
+itel,itel P55,4,64,MediaTek Helio G85,4950,48,IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Graphite,13.0,Budget
+Lava,Lava Bold 2,4,64,Unisoc T612,5250,50,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Graphite,12.0,Budget
+Poco,Poco X6,8,128,MediaTek Dimensity 7050,5300,108,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Ice Blue,14.0,Mid-Range
+Motorola,Moto G54,8,128,Exynos 1330,4900,50,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Realme,Realme 11x,6,128,Snapdragon 4 Gen2,5050,50,IPS LCD,6.8,1080 x 2412 (FHD+),Android,Yes,Graphite,14.0,Mid-Range
+Redmi,Redmi A2+,4,64,Unisoc T612,4650,48,PLS LCD,6.6,720 x 1600 (HD+),Android,Yes,Glacier White,13.0,Budget
+Oppo,Oppo A79,8,256,MediaTek Dimensity 7050,5300,64,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,13.0,Mid-Range
+Infinix,Infinix Hot 30i,4,32,MediaTek Helio G35,5900,48,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Graphite,13.0,Budget
+Tecno,Tecno Pop 8,6,64,Snapdragon 4 Gen1,4600,13,IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Ocean Blue,12.0,Budget
+Vivo,Vivo V30 Pro,8,256,Snapdragon 7 Gen2,4850,50,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Ice Blue,15.0,Premium
+Realme,Realme C53,6,64,MediaTek Helio G35,5250,50,PLS LCD,6.6,720 x 1600 (HD+),Android,No,Phantom Silver,13.0,Budget
+OnePlus,OnePlus Nord CE4,8,128,Exynos 2200,5200,108,LTPO AMOLED,6.7,1080 x 2412 (FHD+),Android,No,Pearl White,15.0,Premium
+Tecno,Tecno Camon 20,8,128,Snapdragon 4 Gen2,5350,50,IPS LCD,6.7,1080 x 2400 (FHD+),Android,Yes,Forest Green,14.0,Mid-Range
+Infinix,Infinix Hot 40i,4,64,Snapdragon 4 Gen1,5300,50,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Motorola,Moto E14,4,64,Snapdragon 4 Gen1,4550,50,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Redmi,Redmi 13C,4,128,MediaTek Helio G85,5650,13,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Lavender Purple,12.0,Budget
+itel,itel A60s,4,64,MediaTek Dimensity 6100+,4800,48,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Vivo,Vivo Y17s,4,64,Snapdragon 4 Gen1,5350,48,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Aurora Green,12.0,Budget
+Motorola,Moto E14,4,64,MediaTek Helio G85,5900,13,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Lavender Purple,13.0,Budget
+Vivo,Vivo T3x,8,128,Exynos 1330,4950,50,IPS LCD,6.5,1080 x 2400 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Samsung,Samsung Galaxy Z Fold5,12,256,Snapdragon 8 Gen2,4000,200,Super Retina XDR OLED,6.7,1179 x 2556 (Super Retina XDR),Android,Yes,Forest Green,15.0,Flagship
+Motorola,Moto Edge 40 Neo,8,256,MediaTek Helio G99,5200,108,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Pearl White,13.0,Mid-Range
+Samsung,Samsung Galaxy Z Flip5,16,512,Snapdragon 8 Gen2,4900,48,Dynamic AMOLED 2X,6.5,1179 x 2556 (Super Retina XDR),Android,Yes,Starlight,15.0,Flagship
+Samsung,Samsung Galaxy A25,6,256,Snapdragon 4 Gen2,4950,64,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Aurora Green,14.0,Mid-Range
+OnePlus,OnePlus 12,16,256,MediaTek Dimensity 9200+,5150,48,Dynamic AMOLED 2X,6.6,1179 x 2556 (Super Retina XDR),Android,Yes,Phantom Silver,16.0,Flagship
+Tecno,Tecno Spark 10,4,32,MediaTek Helio G35,5950,48,PLS LCD,6.5,720 x 1612 (HD+),Android,Yes,Ice Blue,13.0,Budget
+OnePlus,OnePlus Nord CE4,12,128,Snapdragon 7 Gen3,4850,64,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Glacier White,14.0,Premium
+Oppo,Oppo K11x,8,256,MediaTek Dimensity 7050,4900,50,IPS LCD,6.7,1080 x 2400 (FHD+),Android,Yes,Coral Red,13.0,Mid-Range
+Apple,iPhone 13,16,256,Apple A15 Bionic,3750,12,Super Retina XDR OLED,6.6,1080 x 2412 (FHD+),iOS,Yes,Graphite,14.0,Flagship
+Vivo,Vivo V30 Pro,12,256,Google Tensor G2,5350,64,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+OnePlus,OnePlus 11,16,256,Snapdragon 8 Gen2,3750,200,Dynamic AMOLED 2X,6.6,1440 x 3120 (QHD+),Android,Yes,Ice Blue,15.0,Flagship
+Vivo,Vivo X100 Pro,12,256,MediaTek Dimensity 9200+,4600,108,LTPO AMOLED,6.7,1440 x 3120 (QHD+),Android,Yes,Ocean Blue,15.0,Flagship
+Redmi,Redmi Note 13 Pro,8,256,Exynos 1330,5350,50,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Ice Blue,14.0,Mid-Range
+Redmi,Redmi 13 Pro+,8,128,Snapdragon 4 Gen2,5100,64,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Coral Red,14.0,Mid-Range
+Samsung,Samsung Galaxy S23 FE,8,256,Exynos 2200,4700,50,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Ice Blue,14.0,Premium
+Motorola,Moto Edge 40,8,256,MediaTek Dimensity 8200,5050,64,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,14.0,Premium
+Samsung,Samsung Galaxy M14,6,256,MediaTek Helio G99,5150,64,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Pearl White,13.0,Mid-Range
+Apple,iPhone 15,12,512,Apple A16 Bionic,3600,48,Super Retina XDR OLED,6.2,1179 x 2556 (Super Retina XDR),iOS,Yes,Forest Green,14.0,Flagship
+Motorola,Moto G54,6,256,MediaTek Helio G99,5400,108,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,No,Graphite,14.0,Mid-Range
+Nokia,Nokia G60,6,128,MediaTek Helio G99,4850,64,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Vivo,Vivo X100 Pro,12,256,Exynos 2400,3650,200,Dynamic AMOLED 2X,6.5,1179 x 2556 (Super Retina XDR),Android,Yes,Phantom Silver,15.0,Flagship
+Redmi,Redmi A3,4,32,Snapdragon 4 Gen1,5550,13,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Ice Blue,13.0,Budget
+Realme,Realme Narzo 60,6,128,Snapdragon 6 Gen1,5250,64,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,14.0,Mid-Range
+Apple,iPhone 13,12,512,Apple A15 Bionic,3950,12,Super Retina XDR OLED,6.6,1440 x 3120 (QHD+),iOS,Yes,Sunset Orange,14.0,Flagship
+Tecno,Tecno Pop 8,6,32,Unisoc T612,4800,13,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Lavender Purple,12.0,Budget
+Tecno,Tecno Pop 8,4,64,Unisoc T612,5700,13,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Lavender Purple,12.0,Budget
+Lava,Lava Blaze 2,4,128,MediaTek Helio G35,4700,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Cosmic Black,13.0,Budget
+Samsung,Samsung Galaxy A55,12,128,Snapdragon 8 Gen2,5250,200,LTPO AMOLED,6.4,1080 x 2400 (FHD+),Android,Yes,Ice Blue,14.0,Premium
+Tecno,Tecno Pop 8,6,64,MediaTek Helio G85,4800,50,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Google,Google Pixel 8a,12,128,Google Tensor G2,4550,200,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+OnePlus,OnePlus Nord 4,12,256,Snapdragon 7 Gen2,4850,50,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Graphite,14.0,Premium
+Tecno,Tecno Pova 5,6,128,MediaTek Dimensity 7050,5400,64,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,14.0,Mid-Range
+Oppo,Oppo A18,4,128,Unisoc T612,5650,13,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Graphite,12.0,Budget
+Samsung,Samsung Galaxy A55,12,256,Snapdragon 8 Gen2,4600,64,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Coral Red,15.0,Premium
+Vivo,Vivo Y200,6,128,MediaTek Helio G99,5100,108,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+OnePlus,OnePlus 11,12,256,Snapdragon 8 Gen2,4800,48,Dynamic AMOLED 2X,6.5,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,15.0,Flagship
+Samsung,Samsung Galaxy Z Fold5,16,512,Exynos 2200,4850,200,LTPO AMOLED,6.5,1179 x 2556 (Super Retina XDR),Android,Yes,Coral Red,15.0,Flagship
+Redmi,Redmi A2+,6,64,Unisoc T612,5850,13,IPS LCD,6.5,720 x 1600 (HD+),Android,No,Ice Blue,12.0,Budget
+Motorola,Moto Edge 50 Pro,8,128,Exynos 2200,5400,200,LTPO AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Glacier White,15.0,Premium
+Apple,iPhone 14,12,256,Apple A15 Bionic,3300,12,Super Retina XDR OLED,6.5,1080 x 2412 (FHD+),iOS,Yes,Titanium Grey,14.0,Flagship
+Samsung,Samsung Galaxy A15,6,128,Snapdragon 4 Gen2,5300,108,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+Samsung,Samsung Galaxy A55,12,256,Snapdragon 8 Gen2,5050,50,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,14.0,Premium
+Samsung,Samsung Galaxy A54,12,256,Snapdragon 8 Gen2,4850,50,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Ice Blue,14.0,Premium
+Infinix,Infinix Zero 30,8,128,Snapdragon 6 Gen1,5400,108,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Aurora Green,14.0,Mid-Range
+Motorola,Moto E13,4,128,MediaTek Helio G35,4750,50,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+itel,itel A60s,4,128,Unisoc T612,4850,48,PLS LCD,6.6,720 x 1600 (HD+),Android,Yes,Pearl White,12.0,Budget
+Redmi,Redmi Note 13,6,128,Exynos 1330,5200,50,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Graphite,14.0,Mid-Range
+Samsung,Samsung Galaxy S24 Ultra,12,256,Snapdragon 8 Gen3,5200,200,LTPO AMOLED,6.5,1179 x 2556 (Super Retina XDR),Android,Yes,Forest Green,15.0,Flagship
+Oppo,Oppo K11x,8,128,Snapdragon 4 Gen2,5250,50,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Mid-Range
+Samsung,Samsung Galaxy Z Flip5,16,256,Exynos 2200,4650,108,LTPO AMOLED,6.3,1440 x 3120 (QHD+),Android,Yes,Coral Red,15.0,Flagship
+Samsung,Samsung Galaxy S23 FE,12,256,Snapdragon 8 Gen3,4800,50,LTPO AMOLED,6.7,1080 x 2400 (FHD+),Android,No,Ocean Blue,15.0,Premium
+Redmi,Redmi A3,4,64,MediaTek Helio G85,4550,13,PLS LCD,6.5,720 x 1600 (HD+),Android,Yes,Forest Green,12.0,Budget
+OnePlus,OnePlus 12,12,512,Snapdragon 8 Gen3,4850,50,Dynamic AMOLED 2X,6.2,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,14.0,Flagship
+Google,Google Pixel 8a,12,256,Google Tensor G2,5200,108,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+Tecno,Tecno Pova 5,8,128,Exynos 1330,4850,64,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Aurora Green,14.0,Mid-Range
+Vivo,Vivo V30 Pro,8,256,MediaTek Dimensity 8200,4600,50,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Coral Red,14.0,Premium
+Samsung,Samsung Galaxy Z Fold5,12,256,Exynos 2400,4400,50,Super Retina XDR OLED,6.8,1179 x 2556 (Super Retina XDR),Android,Yes,Lavender Purple,16.0,Flagship
+Samsung,Samsung Galaxy A25,6,256,MediaTek Dimensity 7050,4800,64,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,13.0,Mid-Range
+Oppo,Oppo F25 Pro,8,256,Google Tensor G2,5350,108,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Premium
+Tecno,Tecno Camon 20,8,256,Exynos 1330,4900,108,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Coral Red,14.0,Mid-Range
+Lava,Lava Blaze 2,4,128,Snapdragon 4 Gen1,4650,50,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Starlight,12.0,Budget
+Samsung,Samsung Galaxy S24 Ultra,12,256,Snapdragon 8 Gen2,4950,48,Dynamic AMOLED 2X,6.6,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,15.0,Flagship
+Vivo,Vivo V29,8,256,Snapdragon 7 Gen3,5000,50,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+Google,Google Pixel 7a,12,256,Google Tensor G2,4650,50,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,14.0,Premium
+Oppo,Oppo F25 Pro,12,256,Snapdragon 7 Gen2,5200,64,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+itel,itel S23,4,64,MediaTek Dimensity 6100+,4850,48,IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Cosmic Black,13.0,Budget
+Poco,Poco M6 Pro,6,128,Snapdragon 6 Gen1,5000,50,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Starlight,13.0,Mid-Range
+Vivo,Vivo V30 Pro,12,256,Exynos 2200,4900,64,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Graphite,14.0,Premium
+Nothing,Nothing Phone 2a,12,128,Google Tensor G2,4750,64,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,15.0,Premium
+Samsung,Samsung Galaxy F04,4,64,MediaTek Helio G35,4900,13,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Forest Green,12.0,Budget
+Redmi,Redmi A3,6,64,Unisoc T612,5750,48,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Aurora Green,12.0,Budget
+Samsung,Samsung Galaxy S23 FE,8,128,Exynos 2400,5100,108,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,14.0,Premium
+Redmi,Redmi 13 Pro+,8,128,Exynos 1330,5000,50,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Mid-Range
+Realme,Realme Narzo 60,8,256,MediaTek Dimensity 7050,5450,64,AMOLED,6.6,1080 x 2400 (FHD+),Android,No,Graphite,13.0,Mid-Range
+Redmi,Redmi Note 13 Pro,8,128,MediaTek Dimensity 7050,5150,50,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Samsung,Samsung Galaxy M14,6,128,Snapdragon 4 Gen2,5300,50,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+Vivo,Vivo V30,12,256,Snapdragon 7 Gen3,5100,64,LTPO AMOLED,6.6,1080 x 2400 (FHD+),Android,No,Coral Red,15.0,Premium
+OnePlus,OnePlus Nord CE4,12,256,Snapdragon 7 Gen2,4950,200,AMOLED,6.6,1080 x 2400 (FHD+),Android,No,Ice Blue,14.0,Premium
+Samsung,Samsung Galaxy S24 Ultra,12,512,Snapdragon 8 Gen2,3350,200,Super Retina XDR OLED,6.2,1179 x 2556 (Super Retina XDR),Android,Yes,Graphite,14.0,Flagship
+Apple,iPhone 14,16,256,Apple A15 Bionic,4050,12,Super Retina XDR OLED,6.5,1080 x 2412 (FHD+),iOS,Yes,Ocean Blue,14.0,Flagship
+Oppo,Oppo Reno 8T,6,128,Exynos 1330,5100,108,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,No,Forest Green,13.0,Mid-Range
+OnePlus,OnePlus Nord CE4,12,128,Snapdragon 7 Gen2,4900,108,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,15.0,Premium
+Samsung,Samsung Galaxy M04,4,64,MediaTek Helio G85,5600,13,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Pearl White,13.0,Budget
+Samsung,Samsung Galaxy M04,4,64,Unisoc T612,5550,50,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Coral Red,12.0,Budget
+iQOO,iQOO Z9,8,128,Snapdragon 4 Gen2,5200,108,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+Poco,Poco X6,6,128,MediaTek Helio G99,4900,108,IPS LCD,6.5,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,13.0,Mid-Range
+Tecno,Tecno Camon 20,8,128,Exynos 1330,5250,108,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,No,Pearl White,13.0,Mid-Range
+Apple,iPhone 14 Pro,16,512,Apple A16 Bionic,4000,48,Super Retina XDR OLED,6.6,1080 x 2412 (FHD+),iOS,Yes,Ice Blue,14.0,Flagship
+Samsung,Samsung Galaxy A15,8,256,MediaTek Dimensity 7050,5100,50,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Starlight,13.0,Mid-Range
+Tecno,Tecno Spark 10,4,64,MediaTek Helio G85,4850,50,PLS LCD,6.5,720 x 1600 (HD+),Android,Yes,Sunset Orange,13.0,Budget
+Infinix,Infinix Smart 8,4,32,Unisoc T612,5200,13,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+Apple,iPhone 15,12,256,Apple A16 Bionic,3950,48,Super Retina XDR OLED,6.1,1440 x 3120 (QHD+),iOS,Yes,Sunset Orange,14.0,Flagship
+Vivo,Vivo V30,8,256,Exynos 2200,4850,50,LTPO AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Realme,Realme Narzo 60,8,128,Snapdragon 6 Gen1,5150,50,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+Micromax,Micromax In Note 2,4,128,MediaTek Helio G85,5500,48,PLS LCD,6.7,720 x 1600 (HD+),Android,Yes,Aurora Green,13.0,Budget
+Apple,iPhone 14 Pro,12,256,Apple A16 Bionic,4000,48,Super Retina XDR OLED,6.3,1179 x 2556 (Super Retina XDR),iOS,Yes,Phantom Silver,14.0,Flagship
+Samsung,Samsung Galaxy A55,12,256,Snapdragon 8 Gen3,5300,200,LTPO AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,14.0,Premium
+Redmi,Redmi 13C,4,32,MediaTek Dimensity 6100+,5250,13,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Aurora Green,13.0,Budget
+Vivo,Vivo T3x,6,128,Exynos 1330,5100,108,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Oppo,Oppo A79,6,128,MediaTek Dimensity 7050,5050,64,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,13.0,Mid-Range
+Oppo,Oppo A17,4,32,Unisoc T612,5500,13,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Pearl White,12.0,Budget
+Samsung,Samsung Galaxy A54,8,256,Snapdragon 8 Gen2,5350,108,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Ice Blue,14.0,Premium
+Redmi,Redmi Note 13 Pro,8,256,MediaTek Helio G99,4850,64,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Aurora Green,13.0,Mid-Range
+Vivo,Vivo V30,12,256,MediaTek Dimensity 8200,4800,108,AMOLED,6.7,1080 x 2412 (FHD+),Android,No,Lavender Purple,14.0,Premium
+Samsung,Samsung Galaxy A15,6,128,MediaTek Dimensity 7050,4950,108,IPS LCD,6.7,1080 x 2400 (FHD+),Android,Yes,Ice Blue,14.0,Mid-Range
+Vivo,Vivo X100,16,256,Snapdragon 8 Gen2,3800,50,Dynamic AMOLED 2X,6.4,1179 x 2556 (Super Retina XDR),Android,Yes,Aurora Green,16.0,Flagship
+OnePlus,OnePlus 11,12,512,MediaTek Dimensity 9200+,3400,48,Dynamic AMOLED 2X,6.8,1440 x 3120 (QHD+),Android,Yes,Phantom Silver,15.0,Flagship
+itel,itel A70,6,32,MediaTek Helio G35,4550,48,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,No,Cosmic Black,13.0,Budget
+Samsung,Samsung Galaxy A55,8,128,Exynos 2200,5200,50,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Forest Green,14.0,Premium
+Tecno,Tecno Spark 10,4,64,MediaTek Dimensity 6100+,5200,48,IPS LCD,6.6,720 x 1600 (HD+),Android,No,Pearl White,13.0,Budget
+Samsung,Samsung Galaxy A54,8,256,Snapdragon 8 Gen3,5250,50,LTPO AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Pearl White,15.0,Premium
+Oppo,Oppo A79,8,256,Snapdragon 6 Gen1,5000,64,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+itel,itel A60s,6,64,Unisoc T612,5650,50,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+Oppo,Oppo Reno 11 Pro,8,256,Exynos 2200,4800,200,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,14.0,Premium
+Motorola,Moto E14,4,128,Snapdragon 4 Gen1,5550,50,PLS LCD,6.5,720 x 1600 (HD+),Android,Yes,Ice Blue,13.0,Budget
+Vivo,Vivo X100,12,256,Snapdragon 8 Gen3,4700,50,Super Retina XDR OLED,6.2,1179 x 2556 (Super Retina XDR),Android,Yes,Ice Blue,16.0,Flagship
+Samsung,Samsung Galaxy F04,4,128,Unisoc T612,5450,50,PLS LCD,6.7,720 x 1612 (HD+),Android,Yes,Aurora Green,12.0,Budget
+Infinix,Infinix Hot 30i,4,64,MediaTek Helio G35,4700,50,IPS LCD,6.6,720 x 1600 (HD+),Android,No,Aurora Green,12.0,Budget
+Oppo,Oppo Reno 11 Pro,8,128,Google Tensor G2,5300,200,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Motorola,Moto Edge 40 Neo,6,128,Exynos 1330,4900,64,AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Samsung,Samsung Galaxy A05,4,128,Snapdragon 4 Gen1,4800,48,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+iQOO,iQOO 12,12,256,Snapdragon 7 Gen3,5000,50,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Graphite,15.0,Premium
+Tecno,Tecno Pova 5,6,128,Snapdragon 4 Gen2,4850,50,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Starlight,14.0,Mid-Range
+Redmi,Redmi Note 13 Pro,8,128,MediaTek Helio G99,4850,108,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,14.0,Mid-Range
+Tecno,Tecno Pop 8,4,32,MediaTek Dimensity 6100+,5150,13,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+Samsung,Samsung Galaxy A55,12,256,Exynos 2400,4850,50,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Coral Red,15.0,Premium
+iQOO,iQOO Neo 9,12,256,Exynos 2200,4700,200,LTPO AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+Motorola,Moto E14,4,32,MediaTek Dimensity 6100+,4700,50,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Coral Red,12.0,Budget
+Vivo,Vivo Y02t,4,128,MediaTek Dimensity 6100+,5150,13,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Cosmic Black,13.0,Budget
+Lava,Lava Yuva 3,6,64,Snapdragon 4 Gen1,5050,50,PLS LCD,6.7,720 x 1612 (HD+),Android,Yes,Midnight Black,13.0,Budget
+Redmi,Redmi A3,4,64,Snapdragon 4 Gen1,5350,48,IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Titanium Grey,13.0,Budget
+Samsung,Samsung Galaxy M04,6,64,MediaTek Helio G35,4800,13,IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Coral Red,13.0,Budget
+Apple,iPhone 13,12,256,Apple A15 Bionic,3850,12,Super Retina XDR OLED,6.1,1440 x 3120 (QHD+),iOS,Yes,Lavender Purple,14.0,Flagship
+Vivo,Vivo Y02t,4,32,MediaTek Helio G35,5150,50,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Sunset Orange,13.0,Budget
+OnePlus,OnePlus Nord CE4,8,128,Snapdragon 7 Gen2,5100,50,LTPO AMOLED,6.6,1080 x 2412 (FHD+),Android,No,Graphite,14.0,Premium
+Oppo,Oppo F25 Pro,12,256,Snapdragon 7 Gen3,4950,64,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Coral Red,14.0,Premium
+Realme,Realme C53,4,32,Unisoc T612,5600,48,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Forest Green,12.0,Budget
+Oppo,Oppo K11x,6,256,Snapdragon 4 Gen2,4850,108,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,13.0,Mid-Range
+Realme,Realme 11x,8,256,Snapdragon 6 Gen1,5350,50,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+Infinix,Infinix Note 30,8,128,MediaTek Dimensity 7050,5250,108,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+Samsung,Samsung Galaxy A15,8,128,MediaTek Dimensity 7050,5050,108,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Mid-Range
+Oppo,Oppo A79,6,256,Exynos 1330,5450,50,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Infinix,Infinix Hot 40i,4,128,Unisoc T612,5400,48,PLS LCD,6.6,720 x 1600 (HD+),Android,Yes,Pearl White,12.0,Budget
+Vivo,Vivo V30,12,128,Exynos 2200,5400,200,LTPO AMOLED,6.4,1080 x 2400 (FHD+),Android,No,Lavender Purple,15.0,Premium
+Vivo,Vivo V29,12,128,MediaTek Dimensity 8200,5200,64,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Aurora Green,14.0,Premium
+Samsung,Samsung Galaxy Z Flip5,12,256,Exynos 2400,5150,200,Dynamic AMOLED 2X,6.7,1440 x 3120 (QHD+),Android,Yes,Pearl White,15.0,Flagship
+Samsung,Samsung Galaxy M14,8,128,Snapdragon 4 Gen2,5000,64,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Aurora Green,13.0,Mid-Range
+Poco,Poco X6 Pro,8,128,MediaTek Helio G99,5400,108,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Pearl White,13.0,Mid-Range
+Apple,iPhone 14,16,512,Apple A15 Bionic,4150,12,Super Retina XDR OLED,6.6,1080 x 2412 (FHD+),iOS,No,Lavender Purple,14.0,Flagship
+Tecno,Tecno Spark 10,6,64,MediaTek Dimensity 6100+,5850,50,PLS LCD,6.5,720 x 1600 (HD+),Android,Yes,Glacier White,12.0,Budget
+OnePlus,OnePlus 12,12,512,Snapdragon 8 Gen3,4350,50,Super Retina XDR OLED,6.8,1179 x 2556 (Super Retina XDR),Android,Yes,Aurora Green,14.0,Flagship
+Samsung,Samsung Galaxy M14,8,128,MediaTek Helio G99,4850,50,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,13.0,Mid-Range
+Nothing,Nothing Phone 2a,12,256,Snapdragon 7 Gen3,4800,200,AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Premium
+Infinix,Infinix Hot 40i,6,128,MediaTek Helio G35,5500,13,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Coral Red,12.0,Budget
+Samsung,Samsung Galaxy M04,4,64,MediaTek Helio G35,4900,48,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Graphite,13.0,Budget
+Samsung,Samsung Galaxy S23 FE,8,256,Snapdragon 8 Gen2,4750,200,LTPO AMOLED,6.8,1080 x 2400 (FHD+),Android,No,Cosmic Black,15.0,Premium
+Redmi,Redmi A3,4,64,MediaTek Helio G35,4650,48,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Graphite,13.0,Budget
+Motorola,Moto E14,4,64,MediaTek Helio G85,4600,50,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Lavender Purple,13.0,Budget
+Realme,Realme Narzo 60,6,128,Snapdragon 6 Gen1,4800,50,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Starlight,14.0,Mid-Range
+Tecno,Tecno Pop 8,4,64,Unisoc T612,5850,13,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Coral Red,12.0,Budget
+Samsung,Samsung Galaxy A15,8,256,MediaTek Dimensity 7050,5250,108,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Coral Red,14.0,Mid-Range
+Samsung,Samsung Galaxy M04,6,32,Unisoc T612,5450,48,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Apple,iPhone 14 Pro,12,512,Apple A16 Bionic,3450,48,Super Retina XDR OLED,6.5,1440 x 3120 (QHD+),iOS,Yes,Coral Red,14.0,Flagship
+Samsung,Samsung Galaxy A55,12,256,Snapdragon 8 Gen2,5300,50,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Glacier White,14.0,Premium
+Vivo,Vivo Y02t,4,128,Snapdragon 4 Gen1,5800,48,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,No,Graphite,12.0,Budget
+Samsung,Samsung Galaxy Z Flip5,12,256,Exynos 2400,3800,48,Dynamic AMOLED 2X,6.5,1080 x 2412 (FHD+),Android,Yes,Pearl White,16.0,Flagship
+Motorola,Moto Edge 40 Neo,8,256,Exynos 1330,5100,50,IPS LCD,6.5,1080 x 2400 (FHD+),Android,Yes,Midnight Black,14.0,Mid-Range
+Google,Google Pixel 8,16,512,Google Tensor G3,3900,50,LTPO AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,15.0,Flagship
+OnePlus,OnePlus 12R,8,128,Snapdragon 7 Gen3,4650,200,Super AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Premium
+iQOO,iQOO Z9,6,128,Snapdragon 6 Gen1,4900,108,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Ice Blue,14.0,Mid-Range
+Samsung,Samsung Galaxy A55,8,256,Exynos 2400,5000,200,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,15.0,Premium
+Oppo,Oppo A18,6,32,Snapdragon 4 Gen1,5800,50,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,No,Titanium Grey,13.0,Budget
+Tecno,Tecno Spark 10,4,64,MediaTek Dimensity 6100+,5950,50,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Glacier White,12.0,Budget
+OnePlus,OnePlus 11,16,256,Google Tensor G3,4150,108,Super Retina XDR OLED,6.2,1080 x 2412 (FHD+),Android,Yes,Aurora Green,15.0,Flagship
+Redmi,Redmi A2+,6,64,MediaTek Helio G85,4950,50,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Vivo,Vivo Y17s,4,64,Snapdragon 4 Gen1,4750,50,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Sunset Orange,12.0,Budget
+Nothing,Nothing Phone 2a,8,256,Google Tensor G2,5100,50,LTPO AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Coral Red,14.0,Premium
+Oppo,Oppo Find X7,12,512,Snapdragon 8 Gen2,4000,48,Dynamic AMOLED 2X,6.2,1179 x 2556 (Super Retina XDR),Android,Yes,Coral Red,16.0,Flagship
+OnePlus,OnePlus Nord CE4,12,256,Snapdragon 7 Gen3,4600,64,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,No,Pearl White,14.0,Premium
+Samsung,Samsung Galaxy M14,8,128,Exynos 1330,5150,108,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Glacier White,13.0,Mid-Range
+Redmi,Redmi A2+,6,64,MediaTek Helio G35,5400,13,IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Starlight,12.0,Budget
+Realme,Realme Narzo 60,6,256,Snapdragon 6 Gen1,5450,108,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Ice Blue,14.0,Mid-Range
+Vivo,Vivo X100 Pro,16,256,MediaTek Dimensity 9200+,3900,200,LTPO AMOLED,6.3,1080 x 2412 (FHD+),Android,Yes,Starlight,16.0,Flagship
+Google,Google Pixel 8a,8,256,Google Tensor G2,4600,50,LTPO AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Forest Green,14.0,Premium
+Samsung,Samsung Galaxy M14,6,256,Snapdragon 4 Gen2,5100,108,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,14.0,Mid-Range
+Vivo,Vivo Y02t,6,32,MediaTek Helio G35,5250,48,PLS LCD,6.5,720 x 1612 (HD+),Android,Yes,Ocean Blue,12.0,Budget
+Oppo,Oppo K11x,8,128,Snapdragon 4 Gen2,5400,108,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Starlight,14.0,Mid-Range
+Redmi,Redmi Note 13 Pro,6,128,MediaTek Helio G99,5350,108,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Glacier White,13.0,Mid-Range
+Micromax,Micromax In 2b,6,64,Snapdragon 4 Gen1,4650,48,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Glacier White,12.0,Budget
+iQOO,iQOO 12,12,256,Exynos 2200,5350,64,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Ice Blue,15.0,Premium
+Samsung,Samsung Galaxy S24+,16,256,Snapdragon 8 Gen2,3950,108,Dynamic AMOLED 2X,6.8,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,15.0,Flagship
+itel,itel P55,4,64,Unisoc T612,5100,48,IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Midnight Black,12.0,Budget
+Samsung,Samsung Galaxy Z Fold5,16,256,Snapdragon 8 Gen2,4750,48,Dynamic AMOLED 2X,6.5,1179 x 2556 (Super Retina XDR),Android,Yes,Coral Red,15.0,Flagship
+Samsung,Samsung Galaxy A54,8,128,Exynos 2400,5300,200,LTPO AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,15.0,Premium
+Oppo,Oppo Reno 11,12,256,Google Tensor G2,4550,200,LTPO AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Ice Blue,14.0,Premium
+Motorola,Moto Edge 40 Neo,8,256,Snapdragon 6 Gen1,5450,108,IPS LCD,6.8,1080 x 2400 (FHD+),Android,Yes,Starlight,13.0,Mid-Range
+Apple,iPhone 15,12,256,Apple A16 Bionic,4400,48,Super Retina XDR OLED,6.9,1440 x 3120 (QHD+),iOS,No,Phantom Silver,14.0,Flagship
+Samsung,Samsung Galaxy F04,6,32,MediaTek Dimensity 6100+,5750,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Sunset Orange,12.0,Budget
+Lava,Lava Bold 2,6,64,MediaTek Helio G35,4750,13,PLS LCD,6.6,720 x 1600 (HD+),Android,Yes,Starlight,12.0,Budget
+Oppo,Oppo A17,4,64,MediaTek Helio G85,4550,50,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Glacier White,12.0,Budget
+Oppo,Oppo A17,4,64,MediaTek Helio G85,5700,50,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Ocean Blue,12.0,Budget
+Redmi,Redmi A2+,4,128,MediaTek Helio G35,5350,50,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Realme,Realme C55,4,128,Snapdragon 4 Gen1,4650,50,PLS LCD,6.7,720 x 1600 (HD+),Android,Yes,Lavender Purple,12.0,Budget
+Samsung,Samsung Galaxy A55,12,128,Snapdragon 8 Gen2,5350,200,LTPO AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+Infinix,Infinix Hot 40i,6,64,MediaTek Helio G85,5700,50,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Ocean Blue,12.0,Budget
+Samsung,Samsung Galaxy M04,4,128,MediaTek Helio G85,5750,50,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Samsung,Samsung Galaxy A05,4,64,Snapdragon 4 Gen1,5750,48,IPS LCD,6.6,720 x 1600 (HD+),Android,No,Coral Red,12.0,Budget
+OnePlus,OnePlus 11,16,256,Google Tensor G3,3650,48,Super Retina XDR OLED,6.8,1440 x 3120 (QHD+),Android,Yes,Coral Red,14.0,Flagship
+Motorola,Moto Edge 40 Neo,8,128,MediaTek Dimensity 7050,4800,50,AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Mid-Range
+Tecno,Tecno Pop 8,4,32,MediaTek Dimensity 6100+,5800,48,PLS LCD,6.5,720 x 1600 (HD+),Android,Yes,Sunset Orange,12.0,Budget
+Nokia,Nokia G42,6,128,Exynos 1330,4900,64,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Ice Blue,14.0,Mid-Range
+Samsung,Samsung Galaxy S23 FE,8,256,Snapdragon 8 Gen3,5250,50,AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Forest Green,15.0,Premium
+Vivo,Vivo V30 Pro,8,256,Google Tensor G2,5150,108,LTPO AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,15.0,Premium
+Oppo,Oppo A18,6,64,MediaTek Helio G35,5900,50,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Forest Green,13.0,Budget
+Infinix,Infinix Hot 30i,6,64,MediaTek Helio G35,5300,13,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Apple,iPhone 13,12,256,Apple A15 Bionic,3650,12,Super Retina XDR OLED,6.3,1179 x 2556 (Super Retina XDR),iOS,No,Coral Red,14.0,Flagship
+Redmi,Redmi 13 Pro+,8,128,MediaTek Dimensity 7050,4900,64,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,13.0,Mid-Range
+Vivo,Vivo X100 Pro,12,512,Exynos 2400,3800,48,Dynamic AMOLED 2X,6.4,1440 x 3120 (QHD+),Android,Yes,Ice Blue,14.0,Flagship
+OnePlus,OnePlus 12R,8,256,Google Tensor G2,5150,200,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+Vivo,Vivo Y200,6,256,Snapdragon 4 Gen2,4800,64,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Infinix,Infinix Note 30,8,256,MediaTek Helio G99,5400,50,IPS LCD,6.5,1080 x 2400 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Samsung,Samsung Galaxy Z Flip5,16,256,Exynos 2400,5250,200,Dynamic AMOLED 2X,6.2,1440 x 3120 (QHD+),Android,No,Aurora Green,15.0,Flagship
+Samsung,Samsung Galaxy A54,12,256,Snapdragon 8 Gen3,4650,200,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,15.0,Premium
+OnePlus,OnePlus Nord 4,8,256,MediaTek Dimensity 8200,4700,64,LTPO AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,14.0,Premium
+Motorola,Moto Edge 40,12,256,MediaTek Dimensity 8200,4950,108,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+Lava,Lava Yuva 3,4,128,MediaTek Dimensity 6100+,4950,13,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Glacier White,12.0,Budget
+Samsung,Samsung Galaxy S24,12,256,Snapdragon 8 Gen2,3750,50,LTPO AMOLED,6.3,1179 x 2556 (Super Retina XDR),Android,Yes,Starlight,15.0,Flagship
+Lava,Lava Yuva 3,4,64,MediaTek Helio G85,5050,50,IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Phantom Silver,12.0,Budget
+Infinix,Infinix Smart 8,4,64,Snapdragon 4 Gen1,5850,13,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Starlight,12.0,Budget
+Motorola,Moto Edge 40,8,128,Snapdragon 7 Gen3,4650,64,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Glacier White,15.0,Premium
+Lava,Lava Yuva 3,4,64,Unisoc T612,5000,13,PLS LCD,6.7,720 x 1612 (HD+),Android,Yes,Graphite,12.0,Budget
+Micromax,Micromax In Note 2,4,64,MediaTek Dimensity 6100+,5300,50,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Sunset Orange,13.0,Budget
+Oppo,Oppo Reno 8T,8,128,MediaTek Helio G99,5400,64,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Coral Red,13.0,Mid-Range
+Realme,Realme 12 Pro,6,128,MediaTek Helio G99,5350,50,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,14.0,Mid-Range
+Realme,Realme C53,6,128,Snapdragon 4 Gen1,5400,48,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Aurora Green,12.0,Budget
+Samsung,Samsung Galaxy A05,4,64,MediaTek Dimensity 6100+,5550,50,PLS LCD,6.7,720 x 1600 (HD+),Android,Yes,Ocean Blue,12.0,Budget
+Lava,Lava Yuva 3,4,64,Unisoc T612,5000,48,PLS LCD,6.5,720 x 1612 (HD+),Android,Yes,Aurora Green,13.0,Budget
+Google,Google Pixel 7a,12,256,Google Tensor G2,5350,108,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+Motorola,Moto Edge 50 Pro,12,128,Snapdragon 7 Gen3,5250,64,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Starlight,14.0,Premium
+Samsung,Samsung Galaxy S23 FE,12,128,Exynos 2400,5300,200,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+Redmi,Redmi 13 Pro+,6,128,MediaTek Helio G99,5150,50,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Starlight,14.0,Mid-Range
+Realme,Realme Narzo 60,6,128,MediaTek Dimensity 7050,5150,108,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Glacier White,13.0,Mid-Range
+Poco,Poco X6,8,256,Exynos 1330,5450,64,IPS LCD,6.5,1080 x 2400 (FHD+),Android,Yes,Midnight Black,14.0,Mid-Range
+OnePlus,OnePlus Nord 4,8,256,MediaTek Dimensity 8200,4700,64,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+Nokia,Nokia G60,6,128,MediaTek Dimensity 7050,5350,64,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,13.0,Mid-Range
+Apple,iPhone 15 Pro Max,16,256,Apple A17 Pro,4500,48,Super Retina XDR OLED,6.6,1179 x 2556 (Super Retina XDR),iOS,Yes,Titanium Grey,14.0,Flagship
+Motorola,Moto E14,4,128,MediaTek Dimensity 6100+,5000,50,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Ice Blue,12.0,Budget
+iQOO,iQOO Z9,8,256,MediaTek Helio G99,5200,108,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+Nokia,Nokia G42,6,128,Snapdragon 6 Gen1,5050,50,AMOLED,6.7,1080 x 2412 (FHD+),Android,No,Ice Blue,14.0,Mid-Range
+Google,Google Pixel 8 Pro,12,256,Google Tensor G3,3600,48,Super Retina XDR OLED,6.4,1179 x 2556 (Super Retina XDR),Android,Yes,Phantom Silver,14.0,Flagship
+Redmi,Redmi 13 Pro+,8,128,MediaTek Helio G99,5200,50,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+Oppo,Oppo K11x,8,128,Snapdragon 6 Gen1,5350,108,IPS LCD,6.5,1080 x 2412 (FHD+),Android,Yes,Pearl White,13.0,Mid-Range
+Lava,Lava Blaze 2,4,64,MediaTek Helio G35,5600,50,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Tecno,Tecno Spark 10,4,64,Snapdragon 4 Gen1,5950,13,PLS LCD,6.6,720 x 1600 (HD+),Android,Yes,Midnight Black,13.0,Budget
+Samsung,Samsung Galaxy M04,4,64,MediaTek Helio G85,4900,13,IPS LCD,6.5,720 x 1612 (HD+),Android,No,Pearl White,12.0,Budget
+OnePlus,OnePlus Nord 4,8,256,Snapdragon 7 Gen3,4550,200,LTPO AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,14.0,Premium
+Google,Google Pixel 8a,12,128,Google Tensor G2,4750,64,AMOLED,6.5,1080 x 2412 (FHD+),Android,No,Cosmic Black,14.0,Premium
+Infinix,Infinix Smart 8,4,64,MediaTek Dimensity 6100+,5250,13,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Coral Red,12.0,Budget
+Nothing,Nothing Phone 2,12,128,Google Tensor G2,4850,200,LTPO AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Forest Green,15.0,Premium
+iQOO,iQOO Z9,6,128,Snapdragon 6 Gen1,5400,108,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Mid-Range
+OnePlus,OnePlus Nord 4,8,256,Snapdragon 7 Gen3,5250,200,AMOLED,6.4,1080 x 2400 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+Infinix,Infinix Smart 8,4,128,Unisoc T612,4750,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Vivo,Vivo V30 Pro,12,256,Snapdragon 7 Gen3,4700,50,LTPO AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,15.0,Premium
+Apple,iPhone 14,16,512,Apple A15 Bionic,3300,12,Super Retina XDR OLED,6.8,1440 x 3120 (QHD+),iOS,No,Phantom Silver,14.0,Flagship
+Motorola,Moto E13,4,32,MediaTek Helio G85,5700,50,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Coral Red,12.0,Budget
+Infinix,Infinix Hot 30i,4,64,Unisoc T612,5100,50,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Ocean Blue,12.0,Budget
+Poco,Poco M6 Pro,8,256,Snapdragon 4 Gen2,5250,50,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+OnePlus,OnePlus Nord CE4,8,256,Exynos 2200,4950,108,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,14.0,Premium
+Redmi,Redmi A3,4,32,MediaTek Helio G35,5500,50,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Glacier White,13.0,Budget
+Samsung,Samsung Galaxy A25,6,128,Snapdragon 6 Gen1,4950,64,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Titanium Grey,14.0,Mid-Range
+Oppo,Oppo Reno 8T,8,256,Snapdragon 6 Gen1,5450,64,AMOLED,6.6,1080 x 2400 (FHD+),Android,No,Pearl White,13.0,Mid-Range
+iQOO,iQOO Neo 9,12,256,Exynos 2200,5200,64,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Pearl White,14.0,Premium
+Samsung,Samsung Galaxy F04,6,128,MediaTek Dimensity 6100+,4650,50,IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Samsung,Samsung Galaxy A15,8,256,Exynos 1330,4900,50,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Mid-Range
+Realme,Realme Narzo 60,8,128,Snapdragon 6 Gen1,4850,108,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Aurora Green,13.0,Mid-Range
+Oppo,Oppo A79,8,128,Snapdragon 4 Gen2,4900,64,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,No,Aurora Green,13.0,Mid-Range
+Oppo,Oppo A18,6,32,MediaTek Helio G85,4650,48,IPS LCD,6.5,720 x 1612 (HD+),Android,No,Midnight Black,13.0,Budget
+Redmi,Redmi A3,4,32,Unisoc T612,4500,50,PLS LCD,6.5,720 x 1600 (HD+),Android,Yes,Midnight Black,12.0,Budget
+Motorola,Moto Edge 40,12,256,MediaTek Dimensity 8200,5100,200,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+OnePlus,OnePlus 11,12,256,MediaTek Dimensity 9200+,3700,48,LTPO AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Forest Green,15.0,Flagship
+itel,itel P55,4,64,Snapdragon 4 Gen1,5750,50,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Midnight Black,13.0,Budget
+Oppo,Oppo Find X7,16,256,MediaTek Dimensity 9200+,5100,50,Super Retina XDR OLED,6.4,1179 x 2556 (Super Retina XDR),Android,Yes,Ocean Blue,15.0,Flagship
+Infinix,Infinix Zero 30,6,256,Exynos 1330,5100,108,IPS LCD,6.8,1080 x 2400 (FHD+),Android,Yes,Starlight,14.0,Mid-Range
+Redmi,Redmi Note 13,8,256,Snapdragon 4 Gen2,5300,50,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,13.0,Mid-Range
+Oppo,Oppo A17,4,128,MediaTek Helio G35,4850,48,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Coral Red,13.0,Budget
+itel,itel S23,4,64,MediaTek Helio G85,5700,50,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Ice Blue,13.0,Budget
+Vivo,Vivo T2 Pro,8,128,MediaTek Dimensity 7050,5050,50,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+OnePlus,OnePlus 12R,8,256,Exynos 2200,5100,50,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Glacier White,14.0,Premium
+Realme,Realme 11x,6,256,Snapdragon 4 Gen2,5400,50,IPS LCD,6.5,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,13.0,Mid-Range
+Vivo,Vivo V29,12,256,Exynos 2200,4650,108,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Ice Blue,14.0,Premium
+Vivo,Vivo Y02t,4,128,Unisoc T612,5950,48,IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Pearl White,13.0,Budget
+Samsung,Samsung Galaxy Z Fold5,12,256,Exynos 2400,4900,108,Super Retina XDR OLED,6.9,1440 x 3120 (QHD+),Android,Yes,Sunset Orange,16.0,Flagship
+Motorola,Moto Edge 40,12,128,Google Tensor G2,5250,108,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,14.0,Premium
+Motorola,Moto G84,8,128,MediaTek Dimensity 7050,5400,50,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Mid-Range
+Samsung,Samsung Galaxy A05,4,64,Snapdragon 4 Gen1,5350,50,IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Aurora Green,12.0,Budget
+Realme,Realme C53,6,64,Snapdragon 4 Gen1,5000,13,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Graphite,12.0,Budget
+Oppo,Oppo F25 Pro,8,256,Exynos 2200,4800,200,Super AMOLED,6.4,1080 x 2400 (FHD+),Android,No,Coral Red,15.0,Premium
+Samsung,Samsung Galaxy S23 FE,12,256,Snapdragon 8 Gen2,5300,64,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,15.0,Premium
+Tecno,Tecno Spark 10,6,32,Snapdragon 4 Gen1,5650,50,PLS LCD,6.5,720 x 1612 (HD+),Android,Yes,Lavender Purple,13.0,Budget
+iQOO,iQOO Neo 9,8,128,Google Tensor G2,5200,64,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Aurora Green,15.0,Premium
+itel,itel P55,4,32,MediaTek Helio G35,5550,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Midnight Black,12.0,Budget
+Infinix,Infinix Zero 30,8,128,Snapdragon 4 Gen2,5300,108,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+OnePlus,OnePlus Nord 4,8,128,MediaTek Dimensity 8200,5400,64,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Ice Blue,15.0,Premium
+Samsung,Samsung Galaxy A15,8,256,MediaTek Dimensity 7050,5200,64,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Aurora Green,14.0,Mid-Range
+Realme,Realme C53,4,64,MediaTek Dimensity 6100+,5850,50,PLS LCD,6.6,720 x 1600 (HD+),Android,Yes,Starlight,12.0,Budget
+Tecno,Tecno Camon 20,6,128,Snapdragon 6 Gen1,5350,50,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,13.0,Mid-Range
+OnePlus,OnePlus Nord 4,12,128,Snapdragon 7 Gen2,4900,64,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,15.0,Premium
+OnePlus,OnePlus 11,12,512,MediaTek Dimensity 9200+,4450,108,Super Retina XDR OLED,6.8,1440 x 3120 (QHD+),Android,Yes,Starlight,16.0,Flagship
+Vivo,Vivo Y02t,6,64,Unisoc T612,4500,50,PLS LCD,6.6,720 x 1600 (HD+),Android,Yes,Graphite,13.0,Budget
+Oppo,Oppo A18,4,128,Snapdragon 4 Gen1,4850,48,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Glacier White,13.0,Budget
+Google,Google Pixel 8,16,512,Google Tensor G3,3650,108,LTPO AMOLED,6.8,1179 x 2556 (Super Retina XDR),Android,Yes,Ocean Blue,15.0,Flagship
+Samsung,Samsung Galaxy S24,12,512,Exynos 2200,5300,48,LTPO AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Coral Red,16.0,Flagship
+Tecno,Tecno Camon 20,8,128,Snapdragon 4 Gen2,5000,108,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Mid-Range
+Google,Google Pixel 7a,12,128,Google Tensor G2,5200,64,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+Realme,Realme 12 Pro,6,128,MediaTek Dimensity 7050,5350,50,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Midnight Black,14.0,Mid-Range
+Oppo,Oppo Reno 11 Pro,8,256,Google Tensor G2,5350,200,AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+Tecno,Tecno Spark 10,6,64,MediaTek Helio G35,4700,48,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Aurora Green,12.0,Budget
+Redmi,Redmi A3,4,64,Snapdragon 4 Gen1,5300,48,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Starlight,12.0,Budget
+Redmi,Redmi A2+,4,64,Unisoc T612,5400,13,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Aurora Green,12.0,Budget
+Realme,Realme Narzo 60,6,256,MediaTek Dimensity 7050,5300,108,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Starlight,14.0,Mid-Range
+Oppo,Oppo Reno 11 Pro,12,128,Snapdragon 7 Gen2,4600,50,AMOLED,6.5,1080 x 2400 (FHD+),Android,No,Cosmic Black,14.0,Premium
+Vivo,Vivo Y02t,4,128,Snapdragon 4 Gen1,5100,48,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Aurora Green,13.0,Budget
+Poco,Poco X6,8,256,MediaTek Dimensity 7050,5500,64,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Ice Blue,14.0,Mid-Range
+Poco,Poco X6 Pro,6,128,Snapdragon 6 Gen1,4950,64,IPS LCD,6.8,1080 x 2412 (FHD+),Android,Yes,Glacier White,13.0,Mid-Range
+OnePlus,OnePlus Nord 4,12,256,Google Tensor G2,4800,64,AMOLED,6.6,1080 x 2412 (FHD+),Android,No,Glacier White,15.0,Premium
+itel,itel P55,4,64,Snapdragon 4 Gen1,5000,48,IPS LCD,6.5,720 x 1600 (HD+),Android,No,Ice Blue,12.0,Budget
+Redmi,Redmi 13C,4,128,MediaTek Helio G85,5000,48,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,No,Midnight Black,13.0,Budget
+iQOO,iQOO Z9,8,256,MediaTek Helio G99,5400,108,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+itel,itel A70,4,64,MediaTek Helio G85,5950,48,IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Titanium Grey,13.0,Budget
+Oppo,Oppo Reno 8T,6,128,MediaTek Dimensity 7050,5000,64,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Pearl White,14.0,Mid-Range
+Google,Google Pixel 8 Pro,12,256,Google Tensor G3,3600,200,LTPO AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Midnight Black,15.0,Flagship
+iQOO,iQOO Neo 9,12,128,Google Tensor G2,4550,64,LTPO AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Samsung,Samsung Galaxy A05,6,128,MediaTek Dimensity 6100+,5050,13,IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Oppo,Oppo Find X7,16,256,Snapdragon 8 Gen3,4500,108,Super Retina XDR OLED,6.2,1440 x 3120 (QHD+),Android,No,Phantom Silver,15.0,Flagship
+itel,itel P55,4,64,MediaTek Helio G35,5800,13,IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Graphite,12.0,Budget
+Infinix,Infinix Zero 30,6,128,Snapdragon 4 Gen2,5100,64,IPS LCD,6.7,1080 x 2400 (FHD+),Android,Yes,Titanium Grey,13.0,Mid-Range
+Lava,Lava Blaze 2,6,64,MediaTek Dimensity 6100+,5650,13,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Infinix,Infinix Hot 40i,6,64,MediaTek Helio G85,5500,13,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Aurora Green,12.0,Budget
+Infinix,Infinix Note 30,8,128,MediaTek Helio G99,4950,50,AMOLED,6.5,1080 x 2400 (FHD+),Android,No,Phantom Silver,13.0,Mid-Range
+iQOO,iQOO 12 Pro,12,512,Snapdragon 8 Gen2,3700,200,LTPO AMOLED,6.2,1440 x 3120 (QHD+),Android,No,Pearl White,14.0,Flagship
+Samsung,Samsung Galaxy A05,4,32,MediaTek Helio G35,4700,50,PLS LCD,6.7,720 x 1612 (HD+),Android,No,Aurora Green,12.0,Budget
+Google,Google Pixel 7a,12,256,Google Tensor G2,5000,64,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Lava,Lava Bold 2,4,128,MediaTek Helio G85,4500,13,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Vivo,Vivo Y02t,4,128,MediaTek Helio G85,4700,13,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Ocean Blue,12.0,Budget
+Google,Google Pixel 8,12,256,Google Tensor G3,5050,108,Super Retina XDR OLED,6.6,1440 x 3120 (QHD+),Android,Yes,Cosmic Black,15.0,Flagship
+Vivo,Vivo V29,12,256,MediaTek Dimensity 8200,4750,50,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Aurora Green,14.0,Premium
+Motorola,Moto G54,6,128,Snapdragon 4 Gen2,5250,108,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Aurora Green,13.0,Mid-Range
+Samsung,Samsung Galaxy A15,8,256,MediaTek Helio G99,4950,108,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,13.0,Mid-Range
+Motorola,Moto G54,6,256,Exynos 1330,5350,108,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Samsung,Samsung Galaxy Z Flip5,16,256,Snapdragon 8 Gen2,3550,108,LTPO AMOLED,6.3,1440 x 3120 (QHD+),Android,Yes,Pearl White,16.0,Flagship
+Vivo,Vivo Y17s,4,32,MediaTek Helio G85,5250,50,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Cosmic Black,13.0,Budget
+Vivo,Vivo Y17s,4,64,Unisoc T612,4800,13,IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Glacier White,12.0,Budget
+Samsung,Samsung Galaxy S23 FE,12,256,Exynos 2400,5250,108,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Forest Green,15.0,Premium
+Samsung,Samsung Galaxy F04,4,32,Snapdragon 4 Gen1,5350,50,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Poco,Poco X6,8,128,MediaTek Dimensity 7050,5200,108,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,14.0,Mid-Range
+Oppo,Oppo Find X7,16,256,Exynos 2400,4850,50,Dynamic AMOLED 2X,6.6,1179 x 2556 (Super Retina XDR),Android,Yes,Ocean Blue,14.0,Flagship
+Realme,Realme C53,4,64,Unisoc T612,4850,50,IPS LCD,6.5,720 x 1600 (HD+),Android,No,Forest Green,12.0,Budget
+Infinix,Infinix Smart 8,4,64,MediaTek Helio G35,5650,50,IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+Vivo,Vivo X100 Pro,12,256,Exynos 2400,4750,50,Super Retina XDR OLED,6.2,1080 x 2412 (FHD+),Android,Yes,Ice Blue,14.0,Flagship
+Motorola,Moto G84,8,128,Snapdragon 4 Gen2,4850,64,IPS LCD,6.7,1080 x 2400 (FHD+),Android,No,Cosmic Black,13.0,Mid-Range
+Samsung,Samsung Galaxy S24+,12,512,Snapdragon 8 Gen3,5350,108,LTPO AMOLED,6.4,1440 x 3120 (QHD+),Android,Yes,Pearl White,16.0,Flagship
+Samsung,Samsung Galaxy F04,6,64,MediaTek Helio G85,5750,50,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Ocean Blue,12.0,Budget
+Vivo,Vivo Y17s,6,32,Snapdragon 4 Gen1,5150,13,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Sunset Orange,12.0,Budget
+Samsung,Samsung Galaxy A05,4,128,Unisoc T612,5400,50,IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Sunset Orange,12.0,Budget
+iQOO,iQOO Z7,8,128,Snapdragon 4 Gen2,5450,64,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Titanium Grey,14.0,Mid-Range
+Motorola,Moto E13,4,32,MediaTek Helio G85,4700,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Phantom Silver,12.0,Budget
+OnePlus,OnePlus 11,16,256,Google Tensor G3,5200,48,Dynamic AMOLED 2X,6.7,1440 x 3120 (QHD+),Android,Yes,Forest Green,16.0,Flagship
+Vivo,Vivo V30,8,256,MediaTek Dimensity 8200,5100,200,AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Samsung,Samsung Galaxy S24+,16,512,Snapdragon 8 Gen2,4850,48,LTPO AMOLED,6.9,1179 x 2556 (Super Retina XDR),Android,Yes,Phantom Silver,14.0,Flagship
+OnePlus,OnePlus 11,16,512,Snapdragon 8 Gen3,3650,50,Dynamic AMOLED 2X,6.4,1179 x 2556 (Super Retina XDR),Android,Yes,Ice Blue,16.0,Flagship
+Apple,iPhone 15 Pro Max,16,256,Apple A17 Pro,3400,48,Super Retina XDR OLED,6.8,1440 x 3120 (QHD+),iOS,Yes,Titanium Grey,14.0,Flagship
+Tecno,Tecno Pop 8,6,128,MediaTek Dimensity 6100+,5900,13,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Glacier White,12.0,Budget
+Nokia,Nokia G42,6,256,Snapdragon 4 Gen2,5450,50,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+Realme,Realme 11x,8,128,Snapdragon 4 Gen2,4800,64,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Vivo,Vivo V30 Pro,8,256,Exynos 2200,4700,108,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+OnePlus,OnePlus 12R,8,256,Exynos 2200,5150,200,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Glacier White,15.0,Premium
+Apple,iPhone 14,16,256,Apple A15 Bionic,4050,12,Super Retina XDR OLED,6.5,1440 x 3120 (QHD+),iOS,No,Glacier White,14.0,Flagship
+iQOO,iQOO Z9,8,256,Snapdragon 4 Gen2,4900,50,IPS LCD,6.7,1080 x 2400 (FHD+),Android,Yes,Glacier White,13.0,Mid-Range
+Oppo,Oppo Reno 8T,6,256,Exynos 1330,5300,108,IPS LCD,6.8,1080 x 2412 (FHD+),Android,Yes,Starlight,13.0,Mid-Range
+Redmi,Redmi Note 13 Pro,6,128,Exynos 1330,5200,108,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Mid-Range
+iQOO,iQOO Z9,8,128,MediaTek Dimensity 7050,4800,64,IPS LCD,6.5,1080 x 2400 (FHD+),Android,Yes,Pearl White,14.0,Mid-Range
+OnePlus,OnePlus 11,12,512,Exynos 2400,4300,200,Dynamic AMOLED 2X,6.6,1080 x 2412 (FHD+),Android,Yes,Starlight,16.0,Flagship
+Realme,Realme Narzo N55,4,128,Unisoc T612,5550,13,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Lavender Purple,12.0,Budget
+Nothing,Nothing Phone 2a,8,256,Snapdragon 7 Gen3,4600,50,AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Aurora Green,14.0,Premium
+Samsung,Samsung Galaxy S23 FE,12,128,Snapdragon 8 Gen3,4950,108,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,15.0,Premium
+Vivo,Vivo X100 Pro,16,512,Snapdragon 8 Gen2,4450,48,Dynamic AMOLED 2X,6.1,1080 x 2412 (FHD+),Android,Yes,Pearl White,14.0,Flagship
+Oppo,Oppo A17,4,64,Unisoc T612,5050,13,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Pearl White,12.0,Budget
+Samsung,Samsung Galaxy M14,8,128,Exynos 1330,5450,50,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+Vivo,Vivo V29,8,256,Google Tensor G2,5150,50,AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Graphite,15.0,Premium
+Poco,Poco X6 Pro,8,128,MediaTek Dimensity 7050,5400,50,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,13.0,Mid-Range
+Infinix,Infinix Hot 30i,4,64,MediaTek Helio G35,6000,50,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Ocean Blue,12.0,Budget
+iQOO,iQOO 12,12,256,Google Tensor G2,4900,64,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Ice Blue,14.0,Premium
+Samsung,Samsung Galaxy Z Flip5,16,256,Snapdragon 8 Gen3,5300,200,LTPO AMOLED,6.6,1179 x 2556 (Super Retina XDR),Android,Yes,Sunset Orange,14.0,Flagship
+Oppo,Oppo F25 Pro,12,256,Snapdragon 7 Gen2,4950,64,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Pearl White,15.0,Premium
+Apple,iPhone 15,12,256,Apple A16 Bionic,3650,48,Super Retina XDR OLED,6.4,1179 x 2556 (Super Retina XDR),iOS,No,Phantom Silver,14.0,Flagship
+Samsung,Samsung Galaxy A05,4,64,MediaTek Helio G35,4500,48,PLS LCD,6.6,720 x 1600 (HD+),Android,Yes,Graphite,12.0,Budget
+OnePlus,OnePlus 11,16,512,Snapdragon 8 Gen3,4200,48,Super Retina XDR OLED,6.7,1179 x 2556 (Super Retina XDR),Android,Yes,Starlight,14.0,Flagship
+Vivo,Vivo T2 Pro,8,128,MediaTek Helio G99,5000,50,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Glacier White,13.0,Mid-Range
+itel,itel P55,6,64,MediaTek Dimensity 6100+,4550,48,IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Pearl White,12.0,Budget
+Realme,Realme Narzo N55,4,64,MediaTek Helio G35,4650,48,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Starlight,12.0,Budget
+Samsung,Samsung Galaxy A15,8,256,Snapdragon 6 Gen1,5200,64,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+Asus,Asus ROG Phone 8,12,256,Snapdragon 8 Gen2,3350,50,Dynamic AMOLED 2X,6.8,1179 x 2556 (Super Retina XDR),Android,Yes,Phantom Silver,15.0,Flagship
+Samsung,Samsung Galaxy A05,4,32,Unisoc T612,4600,13,IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Graphite,12.0,Budget
+itel,itel A60s,6,32,MediaTek Helio G85,5150,13,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Lavender Purple,13.0,Budget
+Redmi,Redmi A2+,4,64,Snapdragon 4 Gen1,4950,13,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Pearl White,12.0,Budget
+iQOO,iQOO Neo 9,8,128,Exynos 2200,4550,64,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Coral Red,14.0,Premium
+Motorola,Moto Edge 40 Neo,8,128,Exynos 1330,5450,50,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,13.0,Mid-Range
+Google,Google Pixel 8,16,256,Google Tensor G3,3600,108,LTPO AMOLED,6.6,1440 x 3120 (QHD+),Android,Yes,Graphite,14.0,Flagship
+Vivo,Vivo Y17s,4,32,Snapdragon 4 Gen1,4900,48,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+Samsung,Samsung Galaxy S23 Ultra,12,256,Exynos 2400,5350,200,Super Retina XDR OLED,6.1,1179 x 2556 (Super Retina XDR),Android,Yes,Ocean Blue,14.0,Flagship
+iQOO,iQOO 12,8,256,Snapdragon 7 Gen3,4900,64,LTPO AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Glacier White,14.0,Premium
+iQOO,iQOO Neo 9,8,128,Snapdragon 7 Gen2,4550,108,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Forest Green,15.0,Premium
+Oppo,Oppo Reno 11 Pro,8,128,MediaTek Dimensity 8200,5000,64,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Graphite,14.0,Premium
+OnePlus,OnePlus Nord CE4,12,256,MediaTek Dimensity 8200,5350,64,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+Lava,Lava Blaze Curve,6,64,MediaTek Helio G35,4850,48,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Graphite,12.0,Budget
+OnePlus,OnePlus 11,12,256,Snapdragon 8 Gen2,3500,48,Super Retina XDR OLED,6.9,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,15.0,Flagship
+Nothing,Nothing Phone 2,12,256,MediaTek Dimensity 8200,4950,200,LTPO AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Coral Red,14.0,Premium
+Redmi,Redmi Note 13 Pro,8,256,MediaTek Helio G99,5350,108,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Ice Blue,14.0,Mid-Range
+Motorola,Moto E13,4,64,Snapdragon 4 Gen1,4550,13,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Phantom Silver,12.0,Budget
+Motorola,Moto Edge 40,8,256,MediaTek Dimensity 8200,4850,200,LTPO AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Premium
+Oppo,Oppo Reno 8T,6,128,Exynos 1330,5400,64,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,13.0,Mid-Range
+Redmi,Redmi Note 13 Pro,6,128,Exynos 1330,5100,50,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Pearl White,14.0,Mid-Range
+Redmi,Redmi A3,6,64,MediaTek Helio G35,4600,48,IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Lavender Purple,13.0,Budget
+OnePlus,OnePlus 12,16,256,Snapdragon 8 Gen3,5050,48,LTPO AMOLED,6.1,1440 x 3120 (QHD+),Android,Yes,Phantom Silver,16.0,Flagship
+Tecno,Tecno Camon 20,8,128,Snapdragon 4 Gen2,5100,50,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Vivo,Vivo V29,12,256,Snapdragon 7 Gen3,4800,108,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+iQOO,iQOO Z9,6,128,Snapdragon 4 Gen2,5250,108,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Glacier White,13.0,Mid-Range
+Nokia,Nokia G42,8,128,MediaTek Dimensity 7050,5450,64,IPS LCD,6.5,1080 x 2412 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Vivo,Vivo Y17s,6,32,Snapdragon 4 Gen1,5550,48,IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Redmi,Redmi Note 13 Pro,8,256,MediaTek Helio G99,4850,50,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,14.0,Mid-Range
+Samsung,Samsung Galaxy Z Fold5,12,256,Exynos 2200,3350,200,Super Retina XDR OLED,6.3,1080 x 2412 (FHD+),Android,No,Aurora Green,14.0,Flagship
+Poco,Poco X6,8,128,Snapdragon 4 Gen2,5250,64,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Aurora Green,13.0,Mid-Range
+Apple,iPhone 15 Pro,16,512,Apple A17 Pro,3550,48,Super Retina XDR OLED,6.2,1179 x 2556 (Super Retina XDR),iOS,No,Aurora Green,14.0,Flagship
+iQOO,iQOO Neo 9,8,256,Exynos 2200,4800,108,LTPO AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,14.0,Premium
+Oppo,Oppo A79,8,128,Exynos 1330,4950,50,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Samsung,Samsung Galaxy F04,6,32,Unisoc T612,4800,48,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Sunset Orange,13.0,Budget
+Apple,iPhone 14 Pro,16,512,Apple A16 Bionic,3450,48,Super Retina XDR OLED,6.6,1440 x 3120 (QHD+),iOS,Yes,Sunset Orange,14.0,Flagship
+iQOO,iQOO Z7,8,256,MediaTek Helio G99,5200,50,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,13.0,Mid-Range
+Infinix,Infinix Zero 30,6,256,MediaTek Helio G99,5400,108,AMOLED,6.5,1080 x 2412 (FHD+),Android,No,Ice Blue,13.0,Mid-Range
+Samsung,Samsung Galaxy A05,6,64,MediaTek Helio G85,6000,13,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Glacier White,12.0,Budget
+Infinix,Infinix Smart 8,4,128,Unisoc T612,5750,50,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Glacier White,12.0,Budget
+OnePlus,OnePlus 12,12,256,Exynos 2400,5100,108,Dynamic AMOLED 2X,6.7,1440 x 3120 (QHD+),Android,Yes,Lavender Purple,15.0,Flagship
+Lava,Lava Blaze 2,4,32,MediaTek Helio G85,4500,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Forest Green,13.0,Budget
+Samsung,Samsung Galaxy S23 FE,12,256,Exynos 2200,4850,64,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,15.0,Premium
+Vivo,Vivo Y02t,4,32,Snapdragon 4 Gen1,4950,13,PLS LCD,6.5,720 x 1612 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+Realme,Realme Narzo 60,8,128,Snapdragon 4 Gen2,5400,50,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,No,Ice Blue,13.0,Mid-Range
+Google,Google Pixel 8a,8,128,Google Tensor G2,4850,200,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Aurora Green,14.0,Premium
+Oppo,Oppo Reno 8T,6,128,Exynos 1330,4850,108,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,No,Glacier White,14.0,Mid-Range
+Google,Google Pixel 8a,8,256,Google Tensor G2,5250,50,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+Motorola,Moto G84,6,128,Snapdragon 6 Gen1,5000,108,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,13.0,Mid-Range
+Samsung,Samsung Galaxy F04,4,128,Snapdragon 4 Gen1,5600,13,IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Forest Green,12.0,Budget
+Realme,Realme Narzo 60,6,128,Snapdragon 6 Gen1,5400,50,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Starlight,14.0,Mid-Range
+Tecno,Tecno Camon 20,6,128,Snapdragon 6 Gen1,4850,50,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Graphite,14.0,Mid-Range
+iQOO,iQOO 12 Pro,16,256,Snapdragon 8 Gen2,3600,48,LTPO AMOLED,6.3,1080 x 2412 (FHD+),Android,Yes,Pearl White,15.0,Flagship
+Google,Google Pixel 8 Pro,16,256,Google Tensor G3,4500,50,Super Retina XDR OLED,6.4,1179 x 2556 (Super Retina XDR),Android,Yes,Ocean Blue,14.0,Flagship
+Samsung,Samsung Galaxy A25,8,128,Snapdragon 6 Gen1,5000,50,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+Nothing,Nothing Phone 2,8,256,Exynos 2200,5150,200,AMOLED,6.6,1080 x 2400 (FHD+),Android,No,Titanium Grey,15.0,Premium
+iQOO,iQOO Z7,6,128,Snapdragon 4 Gen2,5200,64,IPS LCD,6.6,1080 x 2412 (FHD+),Android,No,Phantom Silver,13.0,Mid-Range
+Redmi,Redmi A3,4,32,MediaTek Dimensity 6100+,5200,13,PLS LCD,6.7,720 x 1612 (HD+),Android,Yes,Starlight,13.0,Budget
+Lava,Lava Blaze Curve,6,32,MediaTek Helio G35,5650,48,PLS LCD,6.7,720 x 1612 (HD+),Android,Yes,Coral Red,12.0,Budget
+Vivo,Vivo T2 Pro,8,128,Exynos 1330,5300,108,IPS LCD,6.8,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,13.0,Mid-Range
+Infinix,Infinix Hot 40i,4,64,MediaTek Dimensity 6100+,5300,13,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Starlight,13.0,Budget
+Samsung,Samsung Galaxy S23 FE,12,256,Exynos 2200,5350,108,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Coral Red,14.0,Premium
+Apple,iPhone 15 Pro,12,256,Apple A17 Pro,3400,48,Super Retina XDR OLED,6.9,1080 x 2412 (FHD+),iOS,No,Graphite,14.0,Flagship
+Infinix,Infinix Zero 30,6,128,MediaTek Helio G99,5050,64,IPS LCD,6.7,1080 x 2400 (FHD+),Android,Yes,Graphite,14.0,Mid-Range
+itel,itel A70,4,128,MediaTek Dimensity 6100+,5150,13,PLS LCD,6.5,720 x 1600 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+Vivo,Vivo Y02t,4,64,Unisoc T612,4700,13,PLS LCD,6.5,720 x 1612 (HD+),Android,No,Phantom Silver,12.0,Budget
+iQOO,iQOO Z9,6,256,Exynos 1330,5100,50,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Glacier White,14.0,Mid-Range
+Infinix,Infinix Zero 30,6,128,MediaTek Helio G99,4850,64,IPS LCD,6.5,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,14.0,Mid-Range
+Nothing,Nothing Phone 2a,8,256,Google Tensor G2,4550,64,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,15.0,Premium
+Vivo,Vivo T2 Pro,8,256,Snapdragon 6 Gen1,5350,50,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,13.0,Mid-Range
+Realme,Realme C55,4,64,Unisoc T612,4950,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Forest Green,12.0,Budget
+Realme,Realme 11x,6,128,Exynos 1330,5400,50,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Aurora Green,14.0,Mid-Range
+Oppo,Oppo A17,4,64,Unisoc T612,5150,13,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Graphite,12.0,Budget
+Nothing,Nothing Phone 2,12,128,Snapdragon 7 Gen3,4600,200,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+itel,itel A70,4,128,Snapdragon 4 Gen1,5200,13,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Forest Green,12.0,Budget
+Samsung,Samsung Galaxy A54,8,128,Exynos 2200,4950,200,LTPO AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Starlight,14.0,Premium
+iQOO,iQOO Neo 9,8,128,Google Tensor G2,5100,108,LTPO AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,15.0,Premium
+Motorola,Moto Edge 50 Pro,8,256,Exynos 2200,4850,50,LTPO AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Starlight,14.0,Premium
+Samsung,Samsung Galaxy Z Fold5,12,256,Exynos 2200,4600,48,LTPO AMOLED,6.2,1179 x 2556 (Super Retina XDR),Android,Yes,Coral Red,16.0,Flagship
+itel,itel P55,4,64,Unisoc T612,4800,13,IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Forest Green,13.0,Budget
+Poco,Poco M6 Pro,6,128,MediaTek Dimensity 7050,5100,108,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,13.0,Mid-Range
+Google,Google Pixel 7a,12,256,Google Tensor G2,5000,108,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,14.0,Premium
+Nothing,Nothing Phone 2,8,256,Snapdragon 7 Gen3,5000,108,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Starlight,14.0,Premium
+Oppo,Oppo Reno 11,12,128,Google Tensor G2,4800,64,LTPO AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,14.0,Premium
+Google,Google Pixel 7a,8,256,Google Tensor G2,5000,64,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,15.0,Premium
+Asus,Asus ROG Phone 8,12,256,Snapdragon 8 Gen2,5300,50,Super Retina XDR OLED,6.1,1440 x 3120 (QHD+),Android,Yes,Graphite,16.0,Flagship
+Vivo,Vivo V30,12,256,Snapdragon 7 Gen3,5400,108,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,14.0,Premium
+Samsung,Samsung Galaxy A55,8,128,Snapdragon 8 Gen2,5250,108,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,14.0,Premium
+Realme,Realme Narzo 60,8,256,Exynos 1330,4950,64,AMOLED,6.7,1080 x 2412 (FHD+),Android,No,Titanium Grey,14.0,Mid-Range
+Vivo,Vivo Y02t,4,64,Unisoc T612,5900,48,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+Samsung,Samsung Galaxy A05,4,64,Snapdragon 4 Gen1,5350,13,PLS LCD,6.6,720 x 1600 (HD+),Android,Yes,Ocean Blue,13.0,Budget
+OnePlus,OnePlus Nord CE4,8,256,Snapdragon 7 Gen2,5300,200,AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Samsung,Samsung Galaxy A55,8,128,Exynos 2400,5400,64,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,15.0,Premium
+Motorola,Moto Edge 50 Pro,8,256,Snapdragon 7 Gen2,5000,200,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,15.0,Premium
+Vivo,Vivo V30,8,256,Exynos 2200,4650,108,AMOLED,6.4,1080 x 2400 (FHD+),Android,Yes,Starlight,15.0,Premium
+Redmi,Redmi 13 Pro+,6,128,Snapdragon 4 Gen2,5200,50,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+Samsung,Samsung Galaxy M14,8,256,Snapdragon 4 Gen2,5300,64,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,13.0,Mid-Range
+Nokia,Nokia G42,8,128,Exynos 1330,5200,64,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Samsung,Samsung Galaxy A55,8,256,Exynos 2200,4850,64,LTPO AMOLED,6.4,1080 x 2400 (FHD+),Android,Yes,Pearl White,14.0,Premium
+OnePlus,OnePlus 12R,12,256,Google Tensor G2,5300,64,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+Samsung,Samsung Galaxy F04,6,32,Unisoc T612,5900,13,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Oppo,Oppo Reno 8T,6,128,Exynos 1330,4900,64,IPS LCD,6.5,1080 x 2400 (FHD+),Android,Yes,Aurora Green,13.0,Mid-Range
+Tecno,Tecno Camon 20,8,128,MediaTek Dimensity 7050,5450,108,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Glacier White,13.0,Mid-Range
+Samsung,Samsung Galaxy A15,8,256,MediaTek Helio G99,5450,64,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,14.0,Mid-Range
+Apple,iPhone 15 Pro,16,256,Apple A17 Pro,4250,48,Super Retina XDR OLED,6.8,1440 x 3120 (QHD+),iOS,Yes,Pearl White,14.0,Flagship
+Samsung,Samsung Galaxy Z Fold5,16,256,Exynos 2200,5000,50,Dynamic AMOLED 2X,6.2,1179 x 2556 (Super Retina XDR),Android,Yes,Titanium Grey,15.0,Flagship
+Micromax,Micromax In Note 2,4,32,MediaTek Helio G35,5800,48,PLS LCD,6.5,720 x 1600 (HD+),Android,Yes,Forest Green,12.0,Budget
+Redmi,Redmi Note 13,8,128,Exynos 1330,5400,108,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,14.0,Mid-Range
+Vivo,Vivo T3x,6,128,MediaTek Dimensity 7050,5100,50,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,13.0,Mid-Range
+Motorola,Moto Edge 40 Neo,8,256,Snapdragon 4 Gen2,5500,64,IPS LCD,6.5,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,13.0,Mid-Range
+OnePlus,OnePlus 12,12,256,Snapdragon 8 Gen2,4600,48,Dynamic AMOLED 2X,6.5,1440 x 3120 (QHD+),Android,Yes,Cosmic Black,16.0,Flagship
+Samsung,Samsung Galaxy M14,6,256,Exynos 1330,5200,64,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,14.0,Mid-Range
+Realme,Realme C55,4,64,MediaTek Helio G85,5400,50,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Ocean Blue,13.0,Budget
+OnePlus,OnePlus 12,12,256,Exynos 2400,4700,200,Dynamic AMOLED 2X,6.5,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,16.0,Flagship
+Infinix,Infinix Note 30,6,128,MediaTek Helio G99,5350,50,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+Redmi,Redmi Note 13 Pro,6,256,MediaTek Helio G99,5450,64,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Titanium Grey,14.0,Mid-Range
+Realme,Realme C55,6,128,Snapdragon 4 Gen1,4850,48,PLS LCD,6.5,720 x 1600 (HD+),Android,No,Forest Green,13.0,Budget
+Samsung,Samsung Galaxy M04,4,128,MediaTek Helio G35,4600,48,PLS LCD,6.6,720 x 1600 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+iQOO,iQOO 12,12,256,Snapdragon 7 Gen3,5100,108,LTPO AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Pearl White,15.0,Premium
+OnePlus,OnePlus Nord CE4,8,256,MediaTek Dimensity 8200,4600,64,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Samsung,Samsung Galaxy M04,4,64,MediaTek Dimensity 6100+,5200,13,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Graphite,12.0,Budget
+Oppo,Oppo A17,4,64,Unisoc T612,5700,50,IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Sunset Orange,12.0,Budget
+Samsung,Samsung Galaxy M04,4,64,MediaTek Helio G85,5150,13,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Sunset Orange,12.0,Budget
+Infinix,Infinix Smart 8,4,64,Unisoc T612,5950,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Sunset Orange,13.0,Budget
+iQOO,iQOO Z7,6,256,Exynos 1330,4950,108,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,14.0,Mid-Range
+Vivo,Vivo V30 Pro,12,128,Google Tensor G2,5300,64,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,No,Ocean Blue,15.0,Premium
+Vivo,Vivo V29,12,256,MediaTek Dimensity 8200,4900,200,LTPO AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+Redmi,Redmi A2+,4,64,Unisoc T612,5150,13,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Graphite,12.0,Budget
+iQOO,iQOO 12,12,128,MediaTek Dimensity 8200,5250,108,LTPO AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+Google,Google Pixel 7a,12,256,Google Tensor G2,5300,108,LTPO AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Aurora Green,14.0,Premium
+iQOO,iQOO 12 Pro,12,256,MediaTek Dimensity 9200+,3500,48,LTPO AMOLED,6.7,1440 x 3120 (QHD+),Android,Yes,Aurora Green,16.0,Flagship
+itel,itel A60s,4,64,MediaTek Helio G35,4900,13,IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Cosmic Black,13.0,Budget
+Apple,iPhone 15,12,256,Apple A16 Bionic,3500,48,Super Retina XDR OLED,6.5,1179 x 2556 (Super Retina XDR),iOS,Yes,Coral Red,14.0,Flagship
+Nothing,Nothing Phone 2,8,256,Snapdragon 7 Gen3,4800,64,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Ice Blue,14.0,Premium
+Samsung,Samsung Galaxy A55,12,256,Snapdragon 8 Gen2,4750,64,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Midnight Black,15.0,Premium
+Oppo,Oppo Reno 11,8,128,Exynos 2200,4700,50,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,14.0,Premium
+Realme,Realme 12 Pro,8,128,MediaTek Helio G99,5250,50,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Coral Red,13.0,Mid-Range
+Oppo,Oppo Reno 8T,8,128,MediaTek Dimensity 7050,5150,50,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,No,Cosmic Black,14.0,Mid-Range
+Motorola,Moto G54,8,128,Snapdragon 6 Gen1,5400,64,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Pearl White,14.0,Mid-Range
+Samsung,Samsung Galaxy S24+,16,512,Exynos 2400,3650,50,Dynamic AMOLED 2X,6.9,1179 x 2556 (Super Retina XDR),Android,Yes,Titanium Grey,15.0,Flagship
+Vivo,Vivo Y200,8,128,Exynos 1330,5100,50,IPS LCD,6.6,1080 x 2412 (FHD+),Android,No,Graphite,14.0,Mid-Range
+Samsung,Samsung Galaxy A25,8,128,Snapdragon 4 Gen2,5050,50,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,14.0,Mid-Range
+itel,itel A70,6,64,MediaTek Helio G85,4650,50,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Glacier White,12.0,Budget
+Samsung,Samsung Galaxy A25,6,256,Snapdragon 4 Gen2,5400,64,IPS LCD,6.6,1080 x 2400 (FHD+),Android,No,Graphite,14.0,Mid-Range
+Google,Google Pixel 8a,8,256,Google Tensor G2,5150,108,Super AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,15.0,Premium
+Google,Google Pixel 8a,8,128,Google Tensor G2,5100,108,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,No,Graphite,14.0,Premium
+Oppo,Oppo A18,4,64,MediaTek Dimensity 6100+,5900,13,PLS LCD,6.7,720 x 1612 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+Redmi,Redmi Note 13 Pro,6,128,MediaTek Helio G99,5250,108,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+Realme,Realme Narzo N55,6,128,MediaTek Dimensity 6100+,5150,50,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,No,Sunset Orange,12.0,Budget
+Samsung,Samsung Galaxy A15,8,128,Snapdragon 4 Gen2,4950,108,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Samsung,Samsung Galaxy A55,8,128,Exynos 2200,4800,108,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,No,Graphite,15.0,Premium
+Tecno,Tecno Pop 8,6,32,Unisoc T612,5650,50,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Glacier White,13.0,Budget
+Samsung,Samsung Galaxy S23 Ultra,12,256,Snapdragon 8 Gen2,4500,50,Dynamic AMOLED 2X,6.9,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,15.0,Flagship
+Vivo,Vivo Y200,8,256,Snapdragon 6 Gen1,5500,108,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,13.0,Mid-Range
+Samsung,Samsung Galaxy A15,6,128,Exynos 1330,5100,50,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Cosmic Black,13.0,Mid-Range
+Vivo,Vivo Y200,8,128,Snapdragon 6 Gen1,5450,50,IPS LCD,6.7,1080 x 2400 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Vivo,Vivo V30 Pro,12,256,Snapdragon 7 Gen2,4900,50,LTPO AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Pearl White,14.0,Premium
+Oppo,Oppo A79,6,128,MediaTek Dimensity 7050,5150,50,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Coral Red,13.0,Mid-Range
+Realme,Realme C55,4,128,MediaTek Dimensity 6100+,5800,13,PLS LCD,6.7,720 x 1612 (HD+),Android,Yes,Phantom Silver,12.0,Budget
+OnePlus,OnePlus Nord CE4,8,256,Exynos 2200,5400,200,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Forest Green,15.0,Premium
+Oppo,Oppo Reno 8T,6,128,Exynos 1330,4850,64,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,14.0,Mid-Range
+Oppo,Oppo Reno 11,8,128,MediaTek Dimensity 8200,5300,50,LTPO AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Aurora Green,14.0,Premium
+Vivo,Vivo V29,12,256,Snapdragon 7 Gen2,4950,200,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+Samsung,Samsung Galaxy A54,8,128,Snapdragon 8 Gen3,5050,108,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Ice Blue,14.0,Premium
+Oppo,Oppo Reno 8T,8,128,Exynos 1330,5500,64,IPS LCD,6.5,1080 x 2400 (FHD+),Android,Yes,Glacier White,13.0,Mid-Range
+OnePlus,OnePlus Nord 4,12,128,Google Tensor G2,4500,108,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,15.0,Premium
+Vivo,Vivo Y02t,4,128,Snapdragon 4 Gen1,5850,13,PLS LCD,6.5,720 x 1612 (HD+),Android,Yes,Midnight Black,13.0,Budget
+Apple,iPhone 14 Pro,12,256,Apple A16 Bionic,3600,48,Super Retina XDR OLED,6.6,1179 x 2556 (Super Retina XDR),iOS,Yes,Phantom Silver,14.0,Flagship
+Samsung,Samsung Galaxy A25,6,256,Snapdragon 4 Gen2,5050,108,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,13.0,Mid-Range
+Realme,Realme 11x,6,128,Exynos 1330,5400,108,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Ice Blue,14.0,Mid-Range
+Samsung,Samsung Galaxy Z Fold5,16,256,Snapdragon 8 Gen2,4400,108,Dynamic AMOLED 2X,6.3,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,15.0,Flagship
+Redmi,Redmi Note 13,6,256,Snapdragon 4 Gen2,5300,64,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,13.0,Mid-Range
+Micromax,Micromax In 2b,4,64,MediaTek Dimensity 6100+,5500,48,PLS LCD,6.6,720 x 1600 (HD+),Android,Yes,Ocean Blue,13.0,Budget
+Vivo,Vivo X100,16,256,MediaTek Dimensity 9200+,4950,108,LTPO AMOLED,6.2,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,15.0,Flagship
+Apple,iPhone 15 Pro,12,256,Apple A17 Pro,3850,48,Super Retina XDR OLED,6.5,1080 x 2412 (FHD+),iOS,Yes,Starlight,14.0,Flagship
+Apple,iPhone 14 Pro,16,256,Apple A16 Bionic,3650,48,Super Retina XDR OLED,6.2,1440 x 3120 (QHD+),iOS,Yes,Forest Green,14.0,Flagship
+Apple,iPhone 15 Pro Max,12,256,Apple A17 Pro,3500,48,Super Retina XDR OLED,6.3,1440 x 3120 (QHD+),iOS,Yes,Lavender Purple,14.0,Flagship
+Oppo,Oppo Reno 8T,6,256,MediaTek Dimensity 7050,5150,50,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Graphite,14.0,Mid-Range
+Oppo,Oppo A18,6,64,MediaTek Helio G85,5050,48,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Sunset Orange,13.0,Budget
+Realme,Realme 11x,8,128,Snapdragon 6 Gen1,5200,50,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Coral Red,13.0,Mid-Range
+Samsung,Samsung Galaxy M04,4,64,Unisoc T612,4550,48,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Phantom Silver,12.0,Budget
+Samsung,Samsung Galaxy A55,8,128,Snapdragon 8 Gen3,4650,108,LTPO AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Midnight Black,15.0,Premium
+Infinix,Infinix Zero 30,6,128,Snapdragon 4 Gen2,5400,64,IPS LCD,6.5,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,13.0,Mid-Range
+Realme,Realme 12 Pro,6,256,Snapdragon 6 Gen1,5150,108,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Samsung,Samsung Galaxy A15,8,256,Snapdragon 4 Gen2,5100,108,IPS LCD,6.7,1080 x 2400 (FHD+),Android,No,Starlight,14.0,Mid-Range
+Oppo,Oppo Reno 11 Pro,12,256,Snapdragon 7 Gen3,4700,108,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Cosmic Black,15.0,Premium
+Realme,Realme C55,4,32,Snapdragon 4 Gen1,5400,48,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,No,Lavender Purple,12.0,Budget
+Redmi,Redmi A3,4,128,Unisoc T612,5700,48,PLS LCD,6.6,720 x 1600 (HD+),Android,Yes,Lavender Purple,12.0,Budget
+Motorola,Moto G84,8,256,MediaTek Dimensity 7050,4850,108,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+OnePlus,OnePlus Nord CE4,12,256,Google Tensor G2,5300,200,AMOLED,6.6,1080 x 2412 (FHD+),Android,No,Pearl White,14.0,Premium
+Infinix,Infinix Hot 30i,4,64,MediaTek Helio G85,5700,50,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Pearl White,13.0,Budget
+Google,Google Pixel 8,12,256,Google Tensor G3,4150,108,Dynamic AMOLED 2X,6.1,1440 x 3120 (QHD+),Android,Yes,Pearl White,14.0,Flagship
+Samsung,Samsung Galaxy S23 FE,12,256,Snapdragon 8 Gen3,5150,64,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Premium
+OnePlus,OnePlus 12R,8,256,Snapdragon 7 Gen2,4950,64,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,14.0,Premium
+OnePlus,OnePlus Nord 4,8,128,Snapdragon 7 Gen3,4600,200,LTPO AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Premium
+Oppo,Oppo Find X7,16,256,Google Tensor G3,3750,200,Dynamic AMOLED 2X,6.4,1440 x 3120 (QHD+),Android,Yes,Pearl White,14.0,Flagship
+Infinix,Infinix Note 30,8,256,MediaTek Helio G99,5050,108,IPS LCD,6.8,1080 x 2412 (FHD+),Android,No,Titanium Grey,14.0,Mid-Range
+Oppo,Oppo Reno 11,8,128,Google Tensor G2,4500,64,LTPO AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Midnight Black,14.0,Premium
+Vivo,Vivo V30 Pro,12,256,Google Tensor G2,4900,64,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Aurora Green,15.0,Premium
+iQOO,iQOO 12,8,128,Snapdragon 7 Gen2,5000,64,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,15.0,Premium
+Motorola,Moto G54,6,128,Snapdragon 6 Gen1,4950,64,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Aurora Green,13.0,Mid-Range
+Tecno,Tecno Spark 10,4,128,MediaTek Helio G35,4750,48,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Aurora Green,13.0,Budget
+OnePlus,OnePlus 12R,12,256,Snapdragon 7 Gen3,4850,108,LTPO AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Pearl White,15.0,Premium
+Infinix,Infinix Smart 8,4,64,MediaTek Helio G35,4700,50,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Phantom Silver,12.0,Budget
+Samsung,Samsung Galaxy A05,6,64,MediaTek Helio G85,5150,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Midnight Black,13.0,Budget
+Apple,iPhone 13,12,256,Apple A15 Bionic,3350,12,Super Retina XDR OLED,6.6,1440 x 3120 (QHD+),iOS,Yes,Glacier White,14.0,Flagship
+Vivo,Vivo Y200,8,128,Snapdragon 4 Gen2,5200,64,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Ocean Blue,14.0,Mid-Range
+Samsung,Samsung Galaxy A05,4,64,Unisoc T612,5200,48,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Sunset Orange,13.0,Budget
+Vivo,Vivo Y02t,4,64,MediaTek Helio G35,4950,48,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Pearl White,12.0,Budget
+Samsung,Samsung Galaxy M14,6,128,Snapdragon 4 Gen2,5000,50,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+Motorola,Moto Edge 40 Neo,6,256,MediaTek Helio G99,5350,50,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Aurora Green,14.0,Mid-Range
+Samsung,Samsung Galaxy A54,8,256,Exynos 2400,5400,64,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+iQOO,iQOO 12 Pro,16,256,Snapdragon 8 Gen3,4550,48,Dynamic AMOLED 2X,6.7,1179 x 2556 (Super Retina XDR),Android,Yes,Phantom Silver,14.0,Flagship
+Redmi,Redmi A3,6,64,MediaTek Helio G85,5300,13,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Pearl White,12.0,Budget
+Motorola,Moto E14,4,128,MediaTek Helio G35,6000,50,PLS LCD,6.5,720 x 1600 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+itel,itel P55,4,128,MediaTek Helio G85,5850,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Aurora Green,12.0,Budget
+Vivo,Vivo X100 Pro,16,256,Exynos 2400,4350,48,Super Retina XDR OLED,6.4,1179 x 2556 (Super Retina XDR),Android,Yes,Ice Blue,16.0,Flagship
+Vivo,Vivo V29,8,256,Google Tensor G2,5100,108,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Glacier White,14.0,Premium
+Google,Google Pixel 8a,12,256,Google Tensor G2,5150,108,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,No,Ocean Blue,15.0,Premium
+Vivo,Vivo V30,8,256,Exynos 2200,5200,108,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Glacier White,15.0,Premium
+Infinix,Infinix Zero 30,6,256,Snapdragon 6 Gen1,5400,108,IPS LCD,6.5,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,14.0,Mid-Range
+Google,Google Pixel 8a,12,256,Google Tensor G2,5250,50,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Oppo,Oppo Find X7,12,256,Google Tensor G3,4050,48,Super Retina XDR OLED,6.2,1179 x 2556 (Super Retina XDR),Android,Yes,Starlight,14.0,Flagship
+Google,Google Pixel 8a,12,256,Google Tensor G2,4850,108,AMOLED,6.6,1080 x 2412 (FHD+),Android,No,Coral Red,15.0,Premium
+Apple,iPhone 14,12,512,Apple A15 Bionic,4400,12,Super Retina XDR OLED,6.4,1080 x 2412 (FHD+),iOS,Yes,Pearl White,14.0,Flagship
+Redmi,Redmi A3,4,64,MediaTek Dimensity 6100+,5600,50,IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Oppo,Oppo Reno 11 Pro,8,256,Snapdragon 7 Gen3,4750,200,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Starlight,14.0,Premium
+Apple,iPhone 13,12,512,Apple A15 Bionic,3950,12,Super Retina XDR OLED,6.7,1080 x 2412 (FHD+),iOS,Yes,Lavender Purple,14.0,Flagship
+Realme,Realme C55,4,32,MediaTek Helio G35,5950,50,PLS LCD,6.7,720 x 1612 (HD+),Android,Yes,Sunset Orange,13.0,Budget
+Redmi,Redmi Note 13 Pro,6,256,MediaTek Helio G99,5450,108,IPS LCD,6.8,1080 x 2412 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Vivo,Vivo Y200,6,128,MediaTek Dimensity 7050,5000,50,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Lava,Lava Blaze Curve,6,128,MediaTek Dimensity 6100+,5650,50,IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Glacier White,13.0,Budget
+Nokia,Nokia G60,8,256,MediaTek Helio G99,5050,64,AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,14.0,Mid-Range
+Infinix,Infinix Note 30,8,256,MediaTek Dimensity 7050,5350,108,IPS LCD,6.8,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,14.0,Mid-Range
+Realme,Realme 11x,6,256,MediaTek Helio G99,5450,108,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Coral Red,14.0,Mid-Range
+Vivo,Vivo T3x,6,128,Snapdragon 4 Gen2,5250,108,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+Tecno,Tecno Pop 8,4,32,MediaTek Dimensity 6100+,5500,48,PLS LCD,6.7,720 x 1600 (HD+),Android,Yes,Coral Red,12.0,Budget
+Oppo,Oppo K11x,6,256,Snapdragon 4 Gen2,5200,50,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Midnight Black,14.0,Mid-Range
+Samsung,Samsung Galaxy S23 FE,8,256,Exynos 2400,5250,64,LTPO AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Starlight,14.0,Premium
+Samsung,Samsung Galaxy S23 Ultra,12,256,Snapdragon 8 Gen2,3700,200,Super Retina XDR OLED,6.9,1080 x 2412 (FHD+),Android,Yes,Glacier White,16.0,Flagship
+OnePlus,OnePlus 12R,8,128,MediaTek Dimensity 8200,4850,64,LTPO AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Aurora Green,14.0,Premium
+Poco,Poco X6 Pro,6,128,Exynos 1330,4900,108,AMOLED,6.8,1080 x 2400 (FHD+),Android,No,Lavender Purple,13.0,Mid-Range
+OnePlus,OnePlus Nord 4,8,128,MediaTek Dimensity 8200,4900,108,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,15.0,Premium
+Vivo,Vivo V29,12,128,Snapdragon 7 Gen3,5100,108,LTPO AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Forest Green,14.0,Premium
+Motorola,Moto G54,6,256,Snapdragon 6 Gen1,5350,50,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Graphite,14.0,Mid-Range
+Micromax,Micromax In 2b,4,64,Snapdragon 4 Gen1,5850,50,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Ocean Blue,12.0,Budget
+itel,itel S23,4,128,MediaTek Helio G35,5250,13,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,No,Cosmic Black,12.0,Budget
+OnePlus,OnePlus 11,12,256,MediaTek Dimensity 9200+,3850,200,Dynamic AMOLED 2X,6.9,1179 x 2556 (Super Retina XDR),Android,Yes,Glacier White,16.0,Flagship
+Lava,Lava Blaze 2,4,128,MediaTek Dimensity 6100+,5300,48,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Lavender Purple,12.0,Budget
+Micromax,Micromax In 2b,4,32,MediaTek Dimensity 6100+,4550,13,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Midnight Black,13.0,Budget
+Vivo,Vivo X100,16,512,Snapdragon 8 Gen2,4200,48,LTPO AMOLED,6.8,1440 x 3120 (QHD+),Android,Yes,Ocean Blue,15.0,Flagship
+Vivo,Vivo T2 Pro,6,128,Exynos 1330,5000,108,IPS LCD,6.5,1080 x 2412 (FHD+),Android,Yes,Pearl White,13.0,Mid-Range
+iQOO,iQOO 12 Pro,16,256,Snapdragon 8 Gen2,3950,50,Super Retina XDR OLED,6.6,1440 x 3120 (QHD+),Android,Yes,Forest Green,16.0,Flagship
+iQOO,iQOO 12,8,256,MediaTek Dimensity 8200,4900,50,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Premium
+Lava,Lava Blaze Curve,4,128,MediaTek Helio G85,5850,50,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Forest Green,12.0,Budget
+Realme,Realme C55,4,128,Unisoc T612,5600,48,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Pearl White,12.0,Budget
+Apple,iPhone 15,12,256,Apple A16 Bionic,4350,48,Super Retina XDR OLED,6.5,1440 x 3120 (QHD+),iOS,No,Phantom Silver,14.0,Flagship
+Redmi,Redmi A3,4,64,Snapdragon 4 Gen1,5750,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Cosmic Black,13.0,Budget
+Vivo,Vivo V29,12,128,Google Tensor G2,4500,64,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,15.0,Premium
+Redmi,Redmi A2+,4,64,MediaTek Helio G85,5800,13,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Pearl White,12.0,Budget
+Vivo,Vivo V29,8,256,MediaTek Dimensity 8200,4550,50,LTPO AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Graphite,15.0,Premium
+Oppo,Oppo A18,4,64,MediaTek Helio G35,5900,13,IPS LCD,6.5,720 x 1612 (HD+),Android,No,Glacier White,13.0,Budget
+Infinix,Infinix Hot 40i,4,32,MediaTek Helio G35,5850,48,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Coral Red,13.0,Budget
+Redmi,Redmi A2+,4,128,Snapdragon 4 Gen1,4800,48,PLS LCD,6.5,720 x 1612 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Apple,iPhone 14 Pro,12,256,Apple A16 Bionic,3350,48,Super Retina XDR OLED,6.7,1179 x 2556 (Super Retina XDR),iOS,No,Coral Red,14.0,Flagship
+iQOO,iQOO Z7,8,128,MediaTek Helio G99,5000,64,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Glacier White,13.0,Mid-Range
+Realme,Realme 12 Pro,6,256,Snapdragon 4 Gen2,5000,50,IPS LCD,6.7,1080 x 2400 (FHD+),Android,Yes,Ice Blue,14.0,Mid-Range
+Oppo,Oppo Reno 11 Pro,12,256,MediaTek Dimensity 8200,4700,200,AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,15.0,Premium
+Poco,Poco M6 Pro,6,256,Exynos 1330,5350,64,IPS LCD,6.5,1080 x 2412 (FHD+),Android,Yes,Graphite,14.0,Mid-Range
+Motorola,Moto E13,6,64,MediaTek Helio G85,5350,48,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Forest Green,12.0,Budget
+Infinix,Infinix Note 30,6,128,Snapdragon 6 Gen1,4800,50,IPS LCD,6.8,1080 x 2412 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+itel,itel A60s,4,32,Unisoc T612,5800,48,PLS LCD,6.6,720 x 1612 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+Realme,Realme C55,4,128,MediaTek Helio G35,5600,50,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Ice Blue,12.0,Budget
+Google,Google Pixel 7a,8,256,Google Tensor G2,4600,50,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Starlight,14.0,Premium
+Motorola,Moto Edge 40,12,256,Google Tensor G2,4700,200,AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Forest Green,14.0,Premium
+Google,Google Pixel 8,12,256,Google Tensor G3,4550,200,Dynamic AMOLED 2X,6.9,1440 x 3120 (QHD+),Android,Yes,Cosmic Black,15.0,Flagship
+Apple,iPhone 15 Pro Max,12,256,Apple A17 Pro,4300,48,Super Retina XDR OLED,6.6,1440 x 3120 (QHD+),iOS,Yes,Sunset Orange,14.0,Flagship
+Samsung,Samsung Galaxy S24 Ultra,12,256,Exynos 2200,4000,48,Super Retina XDR OLED,6.7,1440 x 3120 (QHD+),Android,Yes,Glacier White,15.0,Flagship
+Samsung,Samsung Galaxy F04,6,32,Unisoc T612,5650,13,IPS LCD,6.6,720 x 1600 (HD+),Android,No,Glacier White,12.0,Budget
+Apple,iPhone 13,16,512,Apple A15 Bionic,4050,12,Super Retina XDR OLED,6.4,1179 x 2556 (Super Retina XDR),iOS,Yes,Glacier White,14.0,Flagship
+Realme,Realme 12 Pro,8,256,MediaTek Dimensity 7050,5300,64,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,14.0,Mid-Range
+Google,Google Pixel 8,12,256,Google Tensor G3,3750,50,Dynamic AMOLED 2X,6.4,1440 x 3120 (QHD+),Android,Yes,Starlight,15.0,Flagship
+Google,Google Pixel 7a,8,256,Google Tensor G2,5350,108,LTPO AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Pearl White,14.0,Premium
+Oppo,Oppo F25 Pro,8,256,Snapdragon 7 Gen2,4550,64,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,14.0,Premium
+Oppo,Oppo A79,6,256,Snapdragon 6 Gen1,5200,64,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Coral Red,14.0,Mid-Range
+Samsung,Samsung Galaxy A54,8,256,Snapdragon 8 Gen3,5000,50,AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Forest Green,15.0,Premium
+Poco,Poco X6,6,128,MediaTek Dimensity 7050,5150,50,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Graphite,13.0,Mid-Range
+Realme,Realme 12 Pro,8,128,MediaTek Dimensity 7050,5350,50,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Nokia,Nokia G42,8,128,Exynos 1330,4800,108,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+Samsung,Samsung Galaxy S23 FE,12,256,Exynos 2200,4950,108,LTPO AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Coral Red,14.0,Premium
+Oppo,Oppo A79,6,128,MediaTek Helio G99,5200,64,AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Glacier White,13.0,Mid-Range
+Apple,iPhone 14,12,512,Apple A15 Bionic,4100,12,Super Retina XDR OLED,6.9,1179 x 2556 (Super Retina XDR),iOS,Yes,Glacier White,14.0,Flagship
+OnePlus,OnePlus 11,16,256,Exynos 2400,4000,50,Super Retina XDR OLED,6.3,1440 x 3120 (QHD+),Android,No,Coral Red,15.0,Flagship
+Infinix,Infinix Hot 30i,6,64,Unisoc T612,5600,48,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Glacier White,12.0,Budget
+Samsung,Samsung Galaxy Z Fold5,12,256,Snapdragon 8 Gen2,3550,108,Super Retina XDR OLED,6.6,1179 x 2556 (Super Retina XDR),Android,Yes,Lavender Purple,16.0,Flagship
+Oppo,Oppo Reno 11,12,256,Snapdragon 7 Gen3,4850,108,LTPO AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Realme,Realme 11x,6,128,Snapdragon 4 Gen2,5300,50,IPS LCD,6.6,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,14.0,Mid-Range
+Vivo,Vivo Y02t,6,64,MediaTek Dimensity 6100+,5200,50,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Starlight,13.0,Budget
+Nokia,Nokia G42,6,128,Snapdragon 4 Gen2,5300,50,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,13.0,Mid-Range
+Samsung,Samsung Galaxy A25,8,128,Exynos 1330,5200,50,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Coral Red,13.0,Mid-Range
+Lava,Lava Bold 2,6,64,Unisoc T612,5150,48,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Forest Green,13.0,Budget
+Vivo,Vivo V29,8,256,Google Tensor G2,4800,64,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+Tecno,Tecno Spark 10,6,32,Unisoc T612,5450,13,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Starlight,12.0,Budget
+Infinix,Infinix Hot 30i,4,128,Unisoc T612,4850,50,IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Pearl White,12.0,Budget
+Realme,Realme 12 Pro,8,256,Snapdragon 6 Gen1,5450,64,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Pearl White,13.0,Mid-Range
+Oppo,Oppo F25 Pro,8,256,Snapdragon 7 Gen2,5250,64,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Ocean Blue,15.0,Premium
+Samsung,Samsung Galaxy M04,4,64,Unisoc T612,4650,48,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Lavender Purple,12.0,Budget
+Oppo,Oppo Reno 11,8,128,Exynos 2200,4650,50,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Vivo,Vivo Y17s,6,32,MediaTek Helio G35,4950,13,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Starlight,13.0,Budget
+OnePlus,OnePlus 12R,12,128,Exynos 2200,5050,50,AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Graphite,14.0,Premium
+Samsung,Samsung Galaxy F04,4,64,Snapdragon 4 Gen1,4950,13,PLS LCD,6.7,720 x 1600 (HD+),Android,Yes,Titanium Grey,12.0,Budget
+Samsung,Samsung Galaxy M14,6,256,MediaTek Helio G99,5150,50,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Coral Red,13.0,Mid-Range
+Tecno,Tecno Pova 5,6,128,Snapdragon 6 Gen1,4850,64,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Ice Blue,13.0,Mid-Range
+OnePlus,OnePlus 11,16,256,Snapdragon 8 Gen2,4250,108,Dynamic AMOLED 2X,6.1,1080 x 2412 (FHD+),Android,No,Pearl White,15.0,Flagship
+Samsung,Samsung Galaxy Z Fold5,16,512,Exynos 2200,5200,200,Super Retina XDR OLED,6.8,1440 x 3120 (QHD+),Android,Yes,Graphite,15.0,Flagship
+iQOO,iQOO Neo 9,8,256,Snapdragon 7 Gen2,4500,50,LTPO AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Forest Green,14.0,Premium
+Realme,Realme 11x,6,128,Snapdragon 6 Gen1,5200,50,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Sunset Orange,13.0,Mid-Range
+Samsung,Samsung Galaxy A05,4,32,Unisoc T612,4800,48,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Asus,Asus ROG Phone 8,12,256,Snapdragon 8 Gen2,4250,200,Super Retina XDR OLED,6.5,1080 x 2412 (FHD+),Android,Yes,Ice Blue,16.0,Flagship
+Samsung,Samsung Galaxy M04,4,128,Snapdragon 4 Gen1,4550,13,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Midnight Black,13.0,Budget
+OnePlus,OnePlus 11,16,512,Exynos 2400,4150,108,Dynamic AMOLED 2X,6.3,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,16.0,Flagship
+Motorola,Moto Edge 50 Pro,12,256,Exynos 2200,5300,64,LTPO AMOLED,6.5,1080 x 2400 (FHD+),Android,No,Sunset Orange,14.0,Premium
+Apple,iPhone 14 Pro,16,512,Apple A16 Bionic,4450,48,Super Retina XDR OLED,6.2,1080 x 2412 (FHD+),iOS,Yes,Aurora Green,14.0,Flagship
+Oppo,Oppo Reno 11 Pro,12,128,Exynos 2200,5200,200,Super AMOLED,6.4,1080 x 2412 (FHD+),Android,Yes,Aurora Green,14.0,Premium
+OnePlus,OnePlus 11,12,256,MediaTek Dimensity 9200+,5350,50,Super Retina XDR OLED,6.5,1179 x 2556 (Super Retina XDR),Android,Yes,Aurora Green,15.0,Flagship
+Oppo,Oppo Find X7,12,256,Snapdragon 8 Gen2,5350,48,Super Retina XDR OLED,6.6,1440 x 3120 (QHD+),Android,Yes,Lavender Purple,15.0,Flagship
+iQOO,iQOO 12,12,128,MediaTek Dimensity 8200,5250,108,LTPO AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,15.0,Premium
+Samsung,Samsung Galaxy M14,6,256,Exynos 1330,4950,108,IPS LCD,6.8,1080 x 2400 (FHD+),Android,Yes,Starlight,13.0,Mid-Range
+Nokia,Nokia G60,6,128,MediaTek Helio G99,5000,108,Super AMOLED,6.8,1080 x 2400 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Poco,Poco X6 Pro,6,128,MediaTek Helio G99,5250,50,AMOLED,6.7,1080 x 2412 (FHD+),Android,No,Graphite,13.0,Mid-Range
+Realme,Realme 12 Pro,8,256,Snapdragon 4 Gen2,5300,108,Super AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Coral Red,13.0,Mid-Range
+Poco,Poco M6 Pro,8,256,Snapdragon 6 Gen1,5250,108,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Redmi,Redmi A3,6,64,MediaTek Dimensity 6100+,4700,13,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Phantom Silver,13.0,Budget
+Samsung,Samsung Galaxy S24 Ultra,16,256,Exynos 2400,3700,48,Super Retina XDR OLED,6.6,1440 x 3120 (QHD+),Android,Yes,Midnight Black,16.0,Flagship
+Infinix,Infinix Hot 30i,6,32,Unisoc T612,5700,13,PLS LCD,6.5,720 x 1612 (HD+),Android,Yes,Pearl White,12.0,Budget
+Realme,Realme C53,4,64,MediaTek Helio G35,4900,48,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Starlight,13.0,Budget
+Vivo,Vivo X100,16,256,Snapdragon 8 Gen3,4700,200,Dynamic AMOLED 2X,6.5,1080 x 2412 (FHD+),Android,Yes,Forest Green,14.0,Flagship
+itel,itel A70,6,128,Unisoc T612,5950,48,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Coral Red,12.0,Budget
+Realme,Realme C53,4,32,MediaTek Helio G35,5050,50,HD+ IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Forest Green,12.0,Budget
+itel,itel A60s,4,128,MediaTek Dimensity 6100+,5250,50,HD+ IPS LCD,6.5,720 x 1612 (HD+),Android,Yes,Aurora Green,13.0,Budget
+Vivo,Vivo T3x,6,128,MediaTek Helio G99,4950,108,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,No,Starlight,13.0,Mid-Range
+Samsung,Samsung Galaxy F04,4,64,MediaTek Helio G85,5150,13,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Coral Red,12.0,Budget
+Redmi,Redmi 13C,4,64,MediaTek Helio G85,5550,13,IPS LCD,6.6,720 x 1612 (HD+),Android,Yes,Graphite,12.0,Budget
+Samsung,Samsung Galaxy F04,4,64,Unisoc T612,5350,13,HD+ IPS LCD,6.7,720 x 1600 (HD+),Android,Yes,Midnight Black,12.0,Budget
+Google,Google Pixel 8a,12,256,Google Tensor G2,5350,64,LTPO AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Nothing,Nothing Phone 2,8,256,Google Tensor G2,4800,200,AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Lavender Purple,14.0,Premium
+Nothing,Nothing Phone 2,12,256,Exynos 2200,4800,200,LTPO AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,14.0,Premium
+Apple,iPhone 15,16,512,Apple A16 Bionic,4450,48,Super Retina XDR OLED,6.6,1080 x 2412 (FHD+),iOS,Yes,Coral Red,14.0,Flagship
+Oppo,Oppo K11x,6,128,MediaTek Helio G99,5100,64,Super AMOLED,6.6,1080 x 2400 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+Realme,Realme 12 Pro,6,128,Snapdragon 4 Gen2,5500,64,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Mid-Range
+Samsung,Samsung Galaxy Z Fold5,16,256,Exynos 2200,4600,50,LTPO AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Ice Blue,15.0,Flagship
+Vivo,Vivo V30 Pro,12,128,Exynos 2200,4900,64,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Coral Red,15.0,Premium
+Poco,Poco X6,8,128,Exynos 1330,5350,64,IPS LCD,6.6,1080 x 2400 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+Tecno,Tecno Pova 5,8,128,MediaTek Helio G99,4850,64,Super AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Glacier White,13.0,Mid-Range
+Infinix,Infinix Hot 30i,4,32,MediaTek Helio G35,5050,13,PLS LCD,6.5,720 x 1612 (HD+),Android,No,Ice Blue,13.0,Budget
+Redmi,Redmi 13 Pro+,6,128,Snapdragon 6 Gen1,5150,108,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Phantom Silver,14.0,Mid-Range
+Nothing,Nothing Phone 2a,8,128,Snapdragon 7 Gen2,5050,108,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Phantom Silver,15.0,Premium
+Motorola,Moto Edge 50 Pro,12,256,Snapdragon 7 Gen2,4600,64,Super AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Forest Green,14.0,Premium
+Apple,iPhone 13,12,512,Apple A15 Bionic,3950,12,Super Retina XDR OLED,6.6,1179 x 2556 (Super Retina XDR),iOS,Yes,Phantom Silver,14.0,Flagship
+Vivo,Vivo Y02t,6,128,MediaTek Helio G85,5300,50,HD+ IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Forest Green,13.0,Budget
+Motorola,Moto Edge 40 Neo,8,128,Snapdragon 6 Gen1,5300,108,Super AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Sunset Orange,13.0,Mid-Range
+Samsung,Samsung Galaxy A54,12,128,Exynos 2400,4700,64,Super AMOLED,6.6,1080 x 2412 (FHD+),Android,Yes,Titanium Grey,14.0,Premium
+iQOO,iQOO Z7,6,256,Snapdragon 6 Gen1,5250,108,IPS LCD,6.7,1080 x 2412 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Samsung,Samsung Galaxy A15,6,128,MediaTek Helio G99,5150,50,AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Aurora Green,13.0,Mid-Range
+Realme,Realme Narzo N55,4,32,Snapdragon 4 Gen1,5250,13,IPS LCD,6.6,720 x 1600 (HD+),Android,Yes,Graphite,13.0,Budget
+Poco,Poco X6 Pro,8,128,MediaTek Dimensity 7050,5100,50,AMOLED,6.8,1080 x 2412 (FHD+),Android,Yes,Glacier White,13.0,Mid-Range
+Micromax,Micromax In 2b,4,64,Unisoc T612,5600,48,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Phantom Silver,13.0,Budget
+OnePlus,OnePlus Nord 4,12,128,Google Tensor G2,4650,200,LTPO AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Forest Green,14.0,Premium
+Lava,Lava Yuva 3,4,32,MediaTek Dimensity 6100+,5550,13,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Pearl White,12.0,Budget
+Realme,Realme C53,4,128,MediaTek Helio G85,5450,13,PLS LCD,6.6,720 x 1600 (HD+),Android,Yes,Graphite,12.0,Budget
+Redmi,Redmi A3,4,128,MediaTek Dimensity 6100+,5500,50,HD+ IPS LCD,6.7,720 x 1612 (HD+),Android,Yes,Cosmic Black,13.0,Budget
+Vivo,Vivo T2 Pro,8,128,Snapdragon 4 Gen2,5200,50,Super AMOLED,6.5,1080 x 2412 (FHD+),Android,No,Ocean Blue,14.0,Mid-Range
+Google,Google Pixel 8,16,256,Google Tensor G3,4850,108,LTPO AMOLED,6.4,1440 x 3120 (QHD+),Android,Yes,Midnight Black,15.0,Flagship
+Vivo,Vivo T3x,8,256,MediaTek Dimensity 7050,5450,64,AMOLED,6.5,1080 x 2400 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+Redmi,Redmi 13C,6,64,MediaTek Helio G85,5450,13,HD+ IPS LCD,6.5,720 x 1600 (HD+),Android,Yes,Cosmic Black,12.0,Budget
+Redmi,Redmi Note 13 Pro,8,256,Exynos 1330,4900,108,AMOLED,6.7,1080 x 2412 (FHD+),Android,Yes,Midnight Black,13.0,Mid-Range
+Tecno,Tecno Pop 8,4,32,MediaTek Helio G35,4800,50,PLS LCD,6.5,720 x 1612 (HD+),Android,Yes,Cosmic Black,13.0,Budget
+Samsung,Samsung Galaxy A15,8,128,Snapdragon 4 Gen2,5150,64,AMOLED,6.7,1080 x 2400 (FHD+),Android,Yes,Forest Green,13.0,Mid-Range
+Oppo,Oppo F25 Pro,8,256,Google Tensor G2,5250,50,AMOLED,6.5,1080 x 2412 (FHD+),Android,Yes,Ice Blue,15.0,Premium
