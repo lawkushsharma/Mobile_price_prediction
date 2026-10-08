@@ -33,22 +33,22 @@ st.write("Fill the details below to predict the mobile price category.")
     with col1:
         brand = st.selectbox(
             "Select Mobile Brand",
-            sorted(df["Brand"].dropna().unique())
+    sorted(df["Brand"].dropna().unique())
         )
     with col2:
         model_name = st.selectbox(
             "Select Mobile Model",
-            sorted(df[df["Brand"] == brand]["Model_name"].dropna().unique())
+    sorted(df[df["Brand"] == brand]["Model_name"].dropna().unique())
         )
     with col3:
         ram = st.selectbox(
             "Select RAM (GB)",
-            sorted(df["Ram"].dropna().unique())
+    sorted(df["Ram"].dropna().unique())
         )
     with col4:
         storage = st.selectbox(
             "Select Storage (GB)",
-            sorted(df["Storage"].dropna().unique())
+    sorted(df["Storage"].dropna().unique())
         )
 
     col5, col6, col7, col8 =
@@ -57,22 +57,22 @@ st.write("Fill the details below to predict the mobile price category.")
     with col5:
         processor = st.selectbox(
             "Select Processor",
-            sorted(df["Processor"].dropna().unique())
+    sorted(df["Processor"].dropna().unique())
         )
     with col6:
         battery_power = st.selectbox(
             "Select Battery Power",
-            sorted(df["Battery_power"].dropna().unique())
+    sorted(df["Battery_power"].dropna().unique())
         )
     with col7:
         camera = st.selectbox(
             "Select Camera",
-            sorted(df["Camera"].dropna().unique())
+    sorted(df["Camera"].dropna().unique())
         )
     with col8:
         display = st.selectbox(
             "Select Display",
-            sorted(df["Display"].dropna().unique())
+    sorted(df["Display"].dropna().unique())
         )
 
     col9, col10, col11, col12 =
@@ -81,22 +81,22 @@ st.write("Fill the details below to predict the mobile price category.")
     with col9:
         screen_size = st.selectbox(
             "Select Screen Size",
-            sorted(df["Screen_size"].dropna().unique())
+    sorted(df["Screen_size"].dropna().unique())
         )
     with col10:
         resolution = st.selectbox(
             "Select Resolution",
-            sorted(df["Resolution"].dropna().unique())
+    sorted(df["Resolution"].dropna().unique())
         )
     with col11:
         operating_system = st.selectbox(
             "Select Operating System",
-            sorted(df["Operating_system"].dropna().unique())
+    sorted(df["Operating_system"].dropna().unique())
         )
     with col12:
         dual_sim = st.selectbox(
             "Dual SIM",
-            sorted(df["Dual_sim"].dropna().unique())
+    sorted(df["Dual_sim"].dropna().unique())
         )
 
     col13, col14, =
@@ -105,12 +105,13 @@ st.write("Fill the details below to predict the mobile price category.")
     with col13:
         colour = st.selectbox(
             "Select Colour",
-            sorted(df["Colour"].dropna().unique())
+    sorted(df["Colour"].dropna().unique())
         )
     with col14:
         android_version = st.selectbox(
             "Select Android Version",
-            sorted(df["Android_version"].dropna().unique())
+    sorted(df["Android_version"].dropna().unique())
+        )
 if st.button("Predict Mobile Price"):
 
     input_data = pd.DataFrame([{
