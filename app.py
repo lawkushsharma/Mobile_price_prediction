@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import joblib
+import sklearn
 
 # Page Configuration
 st.set_page_config(
